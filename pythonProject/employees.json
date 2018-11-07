@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Justin",
+      "date_of_birth": "123",
+      "salary": 99999,
+      "bonus": 12300
+    },
+    {
+      "name": "bob",
+      "date_of_birth": "sdads",
+      "salary": 12300,
+      "bonus": 12300
+    },
+    {
+      "name": "red",
+      "date_of_birth": "543",
+      "salary": 12300,
+      "bonus": 12300
+    },
+    {
+      "name": "blue",
+      "date_of_birth": "mon",
+      "salary": 10000,
+      "bonus": 12300
+    },
+    {
+      "name": "yellow",
+      "date_of_birth": "hue",
+      "salary": 10000,
+      "bonus": 12300
+    },
+    {
+      "name": "green",
+      "date_of_birth": "hue",
+      "salary": 23000,
+      "bonus": 12300
+    }
+  ]
+}

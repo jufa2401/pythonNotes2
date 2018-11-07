@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Justin",
+      "password": "123",
+      "auth_level": "admin"
+    },
+    {
+      "name": "bob",
+      "password": "sdads",
+      "auth_level": "hr"
+    },
+    {
+      "name": "red",
+      "password": "543",
+      "auth_level": "hr"
+    },
+    {
+      "name": "blue",
+      "password": "mon",
+      "auth_level": "primary"
+    },
+    {
+      "name": "yellow",
+      "password": "hue",
+      "auth_level": "primary"
+    },
+    {
+      "name": "green",
+      "password": "hue",
+      "auth_level": "secondary"
+    }
+  ]
+}
