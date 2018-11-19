@@ -1,22 +1,45 @@
 from appJar import gui
+from pythonProject import main_template
 
-
-class MyApplication:
+# from mainmenu import MainMenu
+class Login:
 
     # Build the GUI
     def prepare(self, app):
         # Form GUI
         app.setTitle("Login Form")
-        app.setFont(size=12, family="Times")
-        app.setStopFunction(self.before_exit)
-
+        app.setFont(size=12, family="Verdana")
         # Add labels & entries
         # in the correct row & column
         app.addLabel("userLab", "Username:", 0, 0)
         app.addEntry("username", 0, 1)
+        app.setFocus("username")
+
         app.addLabel("passLab", "Password:", 1, 0)
         app.addSecretEntry("password", 1, 1)
-        app.addButtons(["Submit", "Cancel"], self.submit, 3, 0, 2)  # Row 3, Column 0, Span 2
+
+        # Define method that is executed when the user clicks on the submit buttons
+        # of the form
+        def submit(btn):
+            if btn == "Cancel":
+                app.stop()
+            else:
+                username = app.getEntry("username")
+                password = app.getEntry("password")
+                if username == 'justin' and password == 'abc':
+                    app.infoBox("Logged in", "You are now logged in!")
+                    # app.showSubWindow("test")
+                    app.hide("Login Form")
+                    app.stop()
+                    menu = main_template.main_template()
+                    menu.start()
+
+                else:
+                    self.app.errorBox("Error", "Your credentials are invalid!")
+
+        app.addButtons(["Submit", "Cancel"], submit, 3, 0, 2)  # Row 3, Column 0, Span 2
+
+        # mainmenu.MainMenu(app)
 
         return app
 
@@ -34,35 +57,11 @@ class MyApplication:
         # Start appJar
         app.go()
 
-    # Callback execute before quitting your app
-    def before_exit(self):
-        return self.app.yesNoBox("Confirm Exit", "Are you sure you want to exit the application?")
-
-    # Define method that is executed when the user clicks on the submit buttons
-    # of the form
-    def submit(self, btn):
-        if btn == "Cancel":
-            self.app.stop()
-        else:
-            username = self.app.getEntry("username")
-            password = self.app.getEntry("password")
-            if username == 'justin' and password == 'abc':
-                self.app.infoBox("Logged in", "You are now logged in!")
-                self.show_menu()
-            else:
-                self.app.errorBox("Error", "Your credentials are invalid!")
-
-    def show_menu(self):
-        self.app.startPagedWindow("one")
-        self.app.addLabel("l1", "SubWindow One")
-        # self.app.stopSubWindow()
-        self.app.showSubWindow("one")
-
 
 # Run the application
 # `python main.py`
 if __name__ == '__main__':
     # Create an instance of your application
-    app = MyApplication()
+    app = Login()
     # Start your app !
     app.start()

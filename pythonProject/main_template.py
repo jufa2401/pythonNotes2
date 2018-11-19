@@ -10,7 +10,7 @@ from appJar import gui
 
 
 # The press(btn) function determines code to be executed when a button is pressed
-class mainTemplate:
+class main_template:
 
     def __init__(self):
         app = gui("Main Menu", "800x800")

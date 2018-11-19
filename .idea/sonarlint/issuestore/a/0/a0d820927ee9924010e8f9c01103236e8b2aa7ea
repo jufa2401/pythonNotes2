@@ -1,0 +1,1638 @@
+
+hpython:S116€X"PRename this field "allWords" to match the regular expression ^[_a-z][_a-z0-9]*$.(ûËĞ
+opython:S117ğk"WRename this local variable "colPos" to match the regular expression ^[_a-z][a-z0-9_]*$.(Şô š
+<python:S125æ"Remove this commented out code.(Ğò˜şÿÿÿÿ
+opython:S100ÅC"RRename method "addTextArea" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¹´Éøÿÿÿÿ
+lpython:S117Öt"TRename this parameter "widgType" to match the regular expression ^[_a-z][a-z0-9_]*$.(îµŠ
+npython:S100ÉQ"QRename method "renameMenu" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ïö¯÷ûÿÿÿÿ
+tpython:S100Â)"WRename method "getPreviousFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒÎñıÿÿÿÿ
+ipython:S116ªZ"QRename this field "treeTitle" to match the regular expression ^[_a-z][_a-z0-9]*$.(¿ã©ô
+spython:S117¹ "[Rename this local variable "scrollPane" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø ©¶
+jpython:S117<"RRename this parameter "newVal" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹ªóŒ
+ipython:S100ä"QRename method "setPadding" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(îÕ â
+hpython:S100É"PRename method "getWidget" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŞÂı
+ypython:S117ò5"\Rename this local variable "newAbsImage" to match the regular expression ^[_a-z][a-z0-9_]*$.(šÈ•Ëúÿÿÿÿ
+npython:S107¾="QMethod "addImageButton" has 9 parameters, which is greater than the 7 authorized.(ªğ‘¿ùÿÿÿÿ
+rpython:S3776Á"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(º¹˜ıÿÿÿÿ
+rpython:S100ë2"URename method "deleteProperty" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ì¼œüÿÿÿÿ
+kpython:S100ê"SRename method "openRootPage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(áõ§ÿ
+rpython:S100F"ZRename method "setTreeEditFunction" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‹½‚¦
+?python:S1481£p"&Remove the unused local variable "tt".(×ú›ä
+ipython:S117è3"QRename this parameter "toVal" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾¸‰Ê
+vpython:S117Ê4"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÊÎ¼ûúÿÿÿÿ
+lpython:S117©%"TRename this parameter "showMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(·Á­Ä
+qpython:S117¤Q"YRename this local variable "numMenus" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÀŸ‰Ä
+opython:S117à&"WRename this local variable "reOpen" to match the regular expression ^[_a-z][a-z0-9_]*$.(êÁ•
+npython:S100ĞR"QRename method "appJarHelp" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(æÚ¿ıÿÿÿÿ
+epython:S107¡C"MMethod "_textMaker" has 9 parameters, which is greater than the 7 authorized.(ç£È³
+vpython:S117§"YRename this local variable "logLevel" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰·çÃùÿÿÿÿ
+mpython:S100ƒ;"URename method "setListBoxRows" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŞÈÙ
+ppython:S117ùD"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(Èëí¶
+fpython:S116–""ORename this field "tabFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(µòƒH
+opython:S117İl"XRename this local variable "cellNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ãø¥x
+gpython:S100°T"ORename method "getPopUp" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(«ŸøÔ
+zpython:S117Ñ9"]Rename this local variable "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(à¤ó¼ÿÿÿÿÿ
+upython:S100”+"XRename method "_updateLabelBoxes" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(µÉŒúÿÿÿÿ
+upython:S100ü'"]Rename method "setPagedWindowFunction" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(™üŒó
+gpython:S100¿T"ORename method "errorBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Î¹‰¥
+lpython:S107™."OMethod "addOptionBox" has 9 parameters, which is greater than the 7 authorized.(¥¢÷·ùÿÿÿÿ
+opython:S100²J"RRename method "_limitEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŸÏ¥úÿÿÿÿ
+gpython:S100Ê7"ORename method "addImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ûŞ–Æ
+opython:S116¡""RRename this field "disabledBg" to match the regular expression ^[_a-z][_a-z0-9]*$.(ûµä™úÿÿÿÿ
+<python:S125í"Remove this commented out code.(‰üèÕûÿÿÿÿ
+spython:S117¦t"VRename this parameter "widgetType" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ëëÕøÿÿÿÿ
+kpython:S100U"NRename method "openBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ñ¡ùÌùÿÿÿÿ
+hpython:S100‚8"PRename method "zoomImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ĞÇÒ
+lpython:S100†"ORename method "openNote" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ù”İşÿÿÿÿ
+wpython:S117ö("ZRename this local variable "frameType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ó™ı—şÿÿÿÿ
+ppython:S107µ."SMethod "addTickOptionBox" has 9 parameters, which is greater than the 7 authorized.(í§àªÿÿÿÿÿ
+npython:S1004"QRename method "setSpinBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¥ù¤Äşÿÿÿÿ
+upython:S100©D"]Rename method "textAreaApplyFontRange" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÎâÖÌ
+xpython:S100º$"`Rename method "getTabbedFrameSelectedTab" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚ğ·Ô
+ppython:S117ën"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(í¹¼ã
+spython:S100ä;"VRename method "getAllListItems" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Öç×îüÿÿÿÿ
+lpython:S117æY"ORename this parameter "fgH" to match the regular expression ^[_a-z][a-z0-9_]*$.(úº‡øÿÿÿÿ
+upython:S100ö"XRename method "_importWebBrowser" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(´Šº–ùÿÿÿÿ
+tpython:S100åF"WRename method "setMessageAspect" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(»ìÔŸÿÿÿÿÿ
+~python:S100ŸD"aRename method "textAreaToggleFontSelected" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚Ó‹èûÿÿÿÿ
+jpython:S100áL"RRename method "addPieChart" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÜÖ‡É
+mpython:S3776õF"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÓíÆÁ
+kpython:S100Ê,"SRename method "getAllScales" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ë©Ìˆ
+gpython:S100şI"ORename method "getEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(€’‘î
+kpython:S100á"SRename method "getInPadding" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(×Ğâ¯
+fpython:S116½"ORename this field "logFile" to match the regular expression ^[_a-z][_a-z0-9]*$.(™û
+opython:S117"WRename this parameter "useSettings" to match the regular expression ^[_a-z][a-z0-9_]*$.(Áòä·
+lpython:S100ı@"TRename method "setDatePicker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ôï›´
+qpython:S100ï)"TRename method "stopSubWindow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(©Éê¶úÿÿÿÿ
+rpython:S100‹A"ZRename method "clearAllDatePickers" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.( ÛŠã
+ppython:S100úE"YRename method "setTreeHighlightBg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(„ˆÈ3
+wpython:S100ÒC"ZRename method "addScrolledTextArea" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‹èª–şÿÿÿÿ
+npython:S117ÓH"VRename this parameter "selectFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢€ÅÖ
+spython:S117ÿh"[Rename this local variable "buttonFont" to match the regular expression ^[_a-z][a-z0-9_]*$.(ä—ôì
+ppython:S117÷s"XRename this local variable "newWidg" to match the regular expression ^[_a-z][a-z0-9_]*$.(º«²‹
+xpython:S100úG"[Rename method "addLabelNumericEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Î¼‡”ÿÿÿÿÿ
+vpython:S117"YRename this local variable "isDarwin" to match the regular expression ^[_a-z][a-z0-9_]*$.(Øáïäûÿÿÿÿ
+upython:S117¨4"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(„©Î‰øÿÿÿÿ
+qpython:S107¦."TMethod "addLabelOptionBox" has 9 parameters, which is greater than the 7 authorized.(í˜éòùÿÿÿÿ
+jpython:S100é+"RRename method "setCheckBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(™”Æù
+mpython:S117æ5"URename this parameter "imagePath" to match the regular expression ^[_a-z][a-z0-9_]*$.( ·‘»
+npython:S117"VRename this parameter "handleArgs" to match the regular expression ^[_a-z][a-z0-9_]*$.(ªù©¿
+vpython:S117›-"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(äë’üÿÿÿÿ
+lpython:S116¾	"ORename this field "doFlash" to match the regular expression ^[_a-z][_a-z0-9]*$.(óªõßıÿÿÿÿ
+mpython:S100¨)"URename method "stopFrameStack" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(âÇì
+rpython:S3776õ8"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÅÇÄ‡ıÿÿÿÿ
+rpython:S100Ç&"URename method "setGridHeaders" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ìÄ³èıÿÿÿÿ
+opython:S117¦"RRename this parameter "eValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æº½µûÿÿÿÿ
+qpython:S117Y"YRename this local variable "numItems" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ş…¡Ï
+npython:S100Ë"QRename method "_grabFocus" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(œ‹Ñşÿÿÿÿ
+tpython:S107úG"WMethod "addLabelNumericEntry" has 8 parameters, which is greater than the 7 authorized.(Î¼‡”ÿÿÿÿÿ
+qpython:S117âm"TRename this parameter "topLevel" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø¿ç„üÿÿÿÿ
+upython:S117 @"XRename this local variable "toValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(à°œùÿÿÿÿ
+epython:S100çU"MRename method "numBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(éÖ‡
+opython:S117¦"XRename this local variable "logFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤ƒà?
+qpython:S116«"TRename this field "settingsFile" to match the regular expression ^[_a-z][_a-z0-9]*$.(™ÉŠıÿÿÿÿ
+ppython:S117½l"XRename this parameter "columnNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂïÙë
+npython:S117²t"VRename this parameter "widgetName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿáúó
+npython:S100›"QRename method "SHOW_PATHS" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Èüù×üÿÿÿÿ
+upython:S100òC"XRename method "textAreaCreateTag" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ê”ÿºùÿÿÿÿ
+hpython:S107ÄF"PMethod "_messageMaker" has 9 parameters, which is greater than the 7 authorized.(èŠı
+mpython:S116œ"URename this field "startFunction" to match the regular expression ^[_a-z][_a-z0-9]*$.(¤èÌã
+Gpython:S1481˜".Remove the unused local variable "new_height".(Ñ•Û³
+ppython:S116¿	"SRename this field "hasTitleBar" to match the regular expression ^[_a-z][_a-z0-9]*$.(É×À½øÿÿÿÿ
+lpython:S100ç2"TRename method "setProperties" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‹åóó
+ipython:S117®?"QRename this parameter "yDiam" to match the regular expression ^[_a-z][a-z0-9_]*$.(®ê¯ü
+upython:S117¦K"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(£¬½Êúÿÿÿÿ
+opython:S116Æ"RRename this field "_inputFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(Œ®ë±øÿÿÿÿ
+qpython:S116¯"TRename this field "stopFunction" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÙõĞÑøÿÿÿÿ
+spython:S117Át"VRename this parameter "widgetName" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸µÊíøÿÿÿÿ
+rpython:S3776£A"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÉÌê¼ûÿÿÿÿ
+tpython:S117ù"\Rename this local variable "thingToDrag" to match the regular expression ^[_a-z][a-z0-9_]*$.(©Ü‰÷
+mpython:S117‡"URename this parameter "eventType" to match the regular expression ^[_a-z][a-z0-9_]*$.(’ÄÕ
+Ipython:S1481"+Remove the unused local variable "isLinux".(’Åñ“úÿÿÿÿ
+upython:S117šh"XRename this parameter "actionButton" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñ²Ÿ’üÿÿÿÿ
+ppython:S117°Q"XRename this local variable "theMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(µõî×
+lpython:S100¸,"ORename method "addScale" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚€õöùÿÿÿÿ
+jpython:S107ß3"RMethod "addLabelSpinBox" has 8 parameters, which is greater than the 7 authorized.(ÜêÄ
+qpython:S100ñ"YRename method "_startInternalDrag" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ç©Ù…
+opython:S100‚"WRename method "_loadInternalDnd" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ıÚÄ‡
+ppython:S100Ñ."SRename method "getOptionBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ü‰÷ıÿÿÿÿ
+qpython:S100™"YRename method "_addRightClickMenu" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.( ¤öò
+opython:S100ó6"RRename method "reloadImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ûå«Ùıÿÿÿÿ
+vpython:S117î"YRename this local variable "argsList" to match the regular expression ^[_a-z][a-z0-9_]*$.(„ÖÈ¾ÿÿÿÿÿ
+rpython:S117ï"ZRename this local variable "scaleBase" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹‹ş›
+ipython:S100Õ8"QRename method "setBgImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¼Õ·‰
+rpython:S116Ç	"URename this field "widgetManager" to match the regular expression ^[_a-z][_a-z0-9]*$.(ìù–Ÿüÿÿÿÿ
+mpython:S100–"URename method "_openContainer" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚ÆÆ
+ppython:S116¬"XRename this field "externalSettings" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÜÂÈº
+mpython:S100ì9"URename method "addRadioButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¶İ¥ú
+ppython:S100ê%"SRename method "addTableRows" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(úÈ¥Øúÿÿÿÿ
+opython:S100æ	"RRename method "getLanguage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ù£ª¡øÿÿÿÿ
+qpython:S116ı"TRename this field "configParser" to match the regular expression ^[_a-z][_a-z0-9]*$.(»Ãöşıÿÿÿÿ
+ppython:S117"SRename this local variable "iY" to match the regular expression ^[_a-z][a-z0-9_]*$.(±ƒ¯ıÿÿÿÿ
+jpython:S100õ>"RRename method "addTrashBin" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ï¹ó
+qpython:S100¬4"TRename method "setSpinBoxPos" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚ï³Áşÿÿÿÿ
+tpython:S100ö,"WRename method "setScaleVertical" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ˆ‡„Èÿÿÿÿÿ
+hpython:S100ÅJ"PRename method "_entryOut" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(é’õ
+hpython:S100íF"QRename method "getMessage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°ØªT
+spython:S100¯"VRename method "GET_WIDGET_TYPE" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ú½Ëıÿÿÿÿ
+tpython:S117ú"WRename this parameter "windowTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(åÄşşÿÿÿÿ
+upython:S117¬4"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚ï³Áşÿÿÿÿ
+spython:S100ÿP"VRename method "setMenuCheckBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŞØÌëûÿÿÿÿ
+ipython:S100œ2"QRename method "updatePlot" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ğ–İ
+upython:S117”Q"XRename this local variable "theMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ü¾ËÔúÿÿÿÿ
+jpython:S116×"RRename this field "buttonFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(«ÖÎĞ
+jpython:S116Ür"RRename this field "OriginalID" to match the regular expression ^[_a-z][_a-z0-9]*$.(úåß¦
+vpython:S100‹$"YRename method "hideTabbedFrameTab" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İòŸûùÿÿÿÿ
+vpython:S117ş"YRename this local variable "widgType" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡Å¨’şÿÿÿÿ
+fpython:S100‚c"NRename method "setFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(²ãÏù
+ipython:S117òY"QRename this parameter "fgCol" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘·×Í
+upython:S100ŸJ"XRename method "setEntryMaxLength" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Õ¸º³ÿÿÿÿÿ
+opython:S117ıH"WRename this local variable "vFrame" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦ªĞ
+opython:S117™h"RRename this parameter "addRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒïäªùÿÿÿÿ
+mpython:S3776¦"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(ôòë¾
+lpython:S100®)"TRename method "setStartFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ãØœÂ
+spython:S100Ï("VRename method "startScrollPane" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ØÉé¶ÿÿÿÿÿ
+ipython:S116é"QRename this field "tbMinMade" to match the regular expression ^[_a-z][_a-z0-9]*$.(¶¬öñ
+mpython:S117‡6"URename this parameter "imageData" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìğşÒ
+hpython:S107Õ<"PMethod "_buttonMaker" has 11 parameters, which is greater than the 7 authorized.(¡€ƒè
+ppython:S117¹U"SRename this parameter "dirName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ùİ‡Ÿúÿÿÿÿ
+jpython:S116""RRename this field "inactiveFg" to match the regular expression ^[_a-z][_a-z0-9]*$.(¨£Òñ
+rpython:S100²="URename method "addNamedButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Äçéêüÿÿÿÿ
+upython:S117§("XRename this local variable "pageNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿèÔÂÿÿÿÿÿ
+rpython:S3776	"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(Øãîøşÿÿÿÿ
+upython:S117ŠE"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(şˆ´ûÿÿÿÿ
+gpython:S100§9"ORename method "playNote" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(•ƒ
+ipython:S117®?"QRename this parameter "xDiam" to match the regular expression ^[_a-z][a-z0-9_]*$.(®ê¯ü
+ppython:S100ƒH"SRename method "_getFileName" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(±ûßüÿÿÿÿ
+jpython:S100–"RRename method "setFastStop" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÍÜì¹
+mpython:S100†&"PRename method "sortTable" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(†±Èˆûÿÿÿÿ
+rpython:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(ú„Úüùÿÿÿÿ
+6python:S125¬="Remove this commented out code.(àı5
+lpython:S100œI"TRename method "setEntryValid" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(®ÎÌŞ
+lpython:S100ÅL"TRename method "_addSeparator" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(½ÆÓ
+jpython:S117Õ&"RRename this parameter "rowNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯¯Ö
+spython:S100Ç'"VRename method "stopToggleFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÔËÖºøÿÿÿÿ
+<python:S125á-"Remove this commented out code.(Íå×©ıÿÿÿÿ
+rpython:S100ğ/"URename method "clearOptionBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(§í°ƒıÿÿÿÿ
+gpython:S100ŞV"PRename method "_makeGrip" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰÷ÌI
+hpython:S100ğ"PRename method "openFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(»­Éú
+ppython:S100*"XRename method "hideAllSubWindows" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(·ˆ¢
+hpython:S100Œ)"QRename method "raiseFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(µ‹¯P
+ppython:S100ïW"SRename method "_makeAjFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İŞ‘µùÿÿÿÿ
+rpython:S117ë+"URename this local variable "bVar" to match the regular expression ^[_a-z][a-z0-9_]*$.(Íàöìüÿÿÿÿ
+mpython:S100Ì"URename method "_prepContainer" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Í³ï±
+Gpython:S1481ü6")Remove the unused local variable "label".(Ÿê“Ùşÿÿÿÿ
+fpython:S100Û"NRename method "setIcon" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ÿ÷â®
+spython:S117ç"VRename this parameter "frameTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(³Ø€„ıÿÿÿÿ
+mpython:S100¨E"VRename method "textAreaChanged" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¿İ•l
+npython:S100ø6"VRename method "reloadImageData" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(à“šï
+dpython:S107“["LMethod "__init__" has 12 parameters, which is greater than the 7 authorized.(Õ’…¶
+kpython:S100“1"SRename method "addGoogleMap" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(„˜†›
+jpython:S117Êj"RRename this parameter "rowNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(æÿÈ‚
+npython:S117µX"VRename this parameter "fieldValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿ°æ›
+upython:S117…A"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(şõ¥òùÿÿÿÿ
+ppython:S117Ç:"XRename this local variable "listBox" to match the regular expression ^[_a-z][a-z0-9_]*$.(àÚó³
+opython:S117Áq"WRename this local variable "gotMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(†–•¯
+spython:S116ö"VRename this field "containerStack" to match the regular expression ^[_a-z][_a-z0-9]*$.(Š‰¥Ÿùÿÿÿÿ
+qpython:S100‹F"[Rename method "setTreeClickFunction" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ô«+
+spython:S3776Õ!"URefactor this function to reduce its Cognitive Complexity from 122 to the 15 allowed.(”Å•øÿÿÿÿ
+rpython:S117Ù1"URename this local variable "gMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôæ‰ûÿÿÿÿ
+python:S1845ôs"aRename field "vars" to prevent any misunderstanding/clash with field "VARS" defined on line 14832(Ï§Îÿûÿÿÿÿ
+lpython:S100Ç2"TRename method "addProperties" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(â¸İš
+ipython:S100áF"QRename method "setMessage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ïÂÔ
+ppython:S117¬`"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(§šê”
+Gpython:S1481ø2")Remove the unused local variable "props".(÷ ‚›ùÿÿÿÿ
+ipython:S100$"QRename method "setTabText" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(™ŸÜû
+gpython:S100†U"ORename method "retryBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(—ù¦‹
+upython:S100Ò5"XRename method "setImageMouseOver" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(šöéƒúÿÿÿÿ
+kpython:S100"NRename method "_getRCS" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(­Î£Æıÿÿÿÿ
+qpython:S117ö"YRename this local variable "tabTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(’ÏÚµ
+{python:S117’"^Rename this local variable "startFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(·×Ô­úÿÿÿÿ
+qpython:S117£!"TRename this parameter "tabTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œ¬ãØúÿÿÿÿ
+opython:S117šo"RRename this parameter "useTtk" to match the regular expression ^[_a-z][a-z0-9_]*$.(·àÜÎıÿÿÿÿ
+kpython:S116®"SRename this field "startWindow" to match the regular expression ^[_a-z][_a-z0-9]*$.(›°ı
+rpython:S100ñ&"URename method "stopPanedFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¨ù¥Ñùÿÿÿÿ
+upython:S117Åi"XRename this local variable "newCols" to match the regular expression ^[_a-z][a-z0-9_]*$.(ß‘Ó­úÿÿÿÿ
+gpython:S100¾B"ORename method "addLabel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Óˆªİ
+mpython:S100“Q"URename method "disableMenubar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(å˜ÄÚ
+lpython:S116ìn"TRename this field "callFunction" to match the regular expression ^[_a-z][_a-z0-9]*$.(­¤äû
+opython:S100€H"RRename method "_getDirName" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Íøäşÿÿÿÿ
+opython:S117¯I"WRename this local variable "eStyle" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼İğ
+gpython:S116«Z"ORename this field "canEdit" to match the regular expression ^[_a-z][_a-z0-9]*$.(…İªö
+tpython:S100é'"WRename method "startPagedWindow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ª÷–ˆÿÿÿÿÿ
+qpython:S100³B"TRename method "addFlashLabel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ë££Êıÿÿÿÿ
+ipython:S100çm"LRename method "setUp" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(øé”øÿÿÿÿ
+opython:S117ô"WRename this local variable "Figure" to match the regular expression ^[_a-z][a-z0-9_]*$.(×›Ò…
+kpython:S100®&"TRename method "refreshDbGrid" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(âœĞ
+jpython:S117à"RRename this parameter "cTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(›á“„
+ppython:S100Ì"SRename method "getInputFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¬Ê†Îøÿÿÿÿ
+npython:S100³("VRename method "stopPagedWindow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ı×–
+qpython:S100Ö'"ZRename method "getToggleFrameState" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(´Ù¼~
+mpython:S100ù"PRename method "getExpand" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(çÅĞÆúÿÿÿÿ
+upython:S117€3"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(’·Ê™üÿÿÿÿ
+spython:S100‰("[Rename method "showPagedWindowTitle" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¼‹¥†
+spython:S117›"VRename this local variable "cConf" to match the regular expression ^[_a-z][a-z0-9_]*$.(ïÿÒÅüÿÿÿÿ
+mpython:S117ø6"URename this parameter "imageData" to match the regular expression ^[_a-z][a-z0-9_]*$.(à“šï
+Dpython:S1481ÊQ"+Remove the unused local variable "theMenu".(µõî×
+ppython:S117Â]"XRename this local variable "theText" to match the regular expression ^[_a-z][a-z0-9_]*$.(É¹ã¢
+lpython:S116Õr"ORename this field "OffsetX" to match the regular expression ^[_a-z][_a-z0-9]*$.(‰âãâûÿÿÿÿ
+mpython:S116s"URename this field "OriginalLabel" to match the regular expression ^[_a-z][_a-z0-9]*$.(„¦¨½
+mpython:S3776ªP"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼¤ùÕ
+jpython:S100¶"RRename method "_setLogFile" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(íÇäĞ
+npython:S117«t"VRename this parameter "widgetType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õïšë
+kpython:S100˜="SRename method "_buildButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(†§æ¿
+jpython:S117"SRename this local variable "cY" to match the regular expression ^[_a-z][a-z0-9_]*$.(õ»æ6
+zpython:S117‘C"]Rename this local variable "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(à¤ó¼ÿÿÿÿÿ
+opython:S117µl"XRename this parameter "columnNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢”û]
+vpython:S117ü0"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾ÚÀ÷ÿÿÿÿÿ
+qpython:S117“B"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡Á™‚
+npython:S100C"QRename method "clearLabel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰Ï¾ıÿÿÿÿ
+ppython:S117’`"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(©õÕ†
+spython:S100÷"VRename method "openPagedWindow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(öç¤ûÿÿÿÿ
+npython:S116År"VRename this field "discardDragged" to match the regular expression ^[_a-z][_a-z0-9]*$.(­Û…ê
+hpython:S107ÍG"PMethod "addLabelEntry" has 8 parameters, which is greater than the 7 authorized.(®ÏÓÒ
+qpython:S100ÈP"ZRename method "_copyAndPasteHelper" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¢ÁÌ\
+upython:S117§&"XRename this parameter "actionButton" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹şØ¥ûÿÿÿÿ
+npython:S1009"QRename method "soundError" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³äÈÃúÿÿÿÿ
+spython:S100£O"[Rename method "createRightClickMenu" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Å¡çÙ
+qpython:S117Œ"YRename this local variable "nowFocus" to match the regular expression ^[_a-z][a-z0-9_]*$.(İ›àú
+mpython:S100Ù$"URename method "replaceDbTable" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(„™Ë¯
+kpython:S117ï2"SRename this parameter "newText" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŞÈ€À
+npython:S100N"VRename method "setToolbarImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(œø×ç
+mpython:S117 2"URename this local variable "xLab" to match the regular expression ^[_a-z][a-z0-9_]*$.(ª±øú
+vpython:S100¶?"YRename method "addCanvasRectangle" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¯Ä„÷úÿÿÿÿ
+opython:S117ş%"RRename this parameter "rowNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹³³ºúÿÿÿÿ
+lpython:S100´K"ORename method "setFocus" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÊÃÖåÿÿÿÿÿ
+tpython:S100Ä'"WRename method "startToggleFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÕÊö—şÿÿÿÿ
+vpython:S117šh"YRename this parameter "actionHeading" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñ²Ÿ’üÿÿÿÿ
+upython:S100£N"XRename method "setToolbarEnabled" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œ€Åùÿÿÿÿ
+rpython:S100ÒD"URename method "getTextAreaTag" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(™ÑÍöÿÿÿÿÿ
+ppython:S100Ë&"XRename method "deleteAllGridRows" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³ôÈ×
+upython:S100¦."XRename method "addLabelOptionBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(í˜éòùÿÿÿÿ
+<python:S125"Remove this commented out code.(ì¤´Øûÿÿÿÿ
+mpython:S3776Şh"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÕÃÓè
+mpython:S117©%"URename this parameter "addButton" to match the regular expression ^[_a-z][a-z0-9_]*$.(·Á­Ä
+vpython:S100ô"^Rename method "CLEAN_CONFIG_DICTIONARY" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ãÏ—¸
+cpython:S107Ê7"KMethod "addImage" has 8 parameters, which is greater than the 7 authorized.(ûŞ–Æ
+rpython:S117"URename this parameter "eventType" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜†®¨ûÿÿÿÿ
+ppython:S117²`"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(™¦©„
+€python:S100ş#"cRename method "setTabbedFrameDisableAllTabs" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ç¢©óùÿÿÿÿ
+npython:S100‡R"VRename method "disableMenuEdit" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¤à´À
+ƒpython:S1871ør"eEither merge this branch with the identical one on line "14708" or change one of the implementations.(è›“ûÿÿÿÿ
+spython:S100£1"[Rename method "setGoogleMapLocation" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(…€“Ş
+lpython:S100Ğ"ORename method "setIPadY" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Àôñÿÿÿÿÿ
+rpython:S117À]"URename this parameter "haveLabel" to match the regular expression ^[_a-z][a-z0-9_]*$.(„áú†úÿÿÿÿ
+rpython:S117Œt"ZRename this local variable "widgGroup" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ûİíà
+kpython:S100ñG"SRename method "addAutoEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ìò¡Ì
+kpython:S117ï3"SRename this parameter "fromVal" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëí¾¡
+ppython:S117ö@"SRename this parameter "endYear" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìèàõüÿÿÿÿ
+qpython:S100ûb"TRename method "verifyFontTag" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ô‹®¹ÿÿÿÿÿ
+gpython:S100ŒC"ORename method "textArea" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(§ÉÑÔ
+rpython:S100ËK"URename method "_getWidgetName" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.( Ê®¹üÿÿÿÿ
+ppython:S100È$"SRename method "_getDbTables" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÑŸ²üÿÿÿÿ
+opython:S100¦"RRename method "_handleArgs" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(øÓ¾ûÿÿÿÿ
+xpython:S100ù)"[Rename method "setSubWindowLocation" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ªÔš†üÿÿÿÿ
+qpython:S100×"TRename method "_importAjtree" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜ä¢ãıÿÿÿÿ
+python:S100¸"bRename method "_registerInternalDropTarget" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¦ÆÊªüÿÿÿÿ
+qpython:S100ü+"YRename method "clearAllCheckBoxes" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õÂ†Œ
+rpython:S100ÃD"URename method "searchTextArea" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‡³½¥ıÿÿÿÿ
+vpython:S100ü"YRename method "_startExternalDrag" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Áı¦Ğûÿÿÿÿ
+upython:S100ôG"XRename method "addLabelAutoEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ªá‰Ïûÿÿÿÿ
+mpython:S100V"URename method "_makeButtonBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ùèˆ¼
+opython:S116ïm"RRename this field "widgetType" to match the regular expression ^[_a-z][_a-z0-9]*$.(“‚êùÿÿÿÿ
+lpython:S100ÉG"ORename method "addEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¢¿ Íúÿÿÿÿ
+vpython:S100î6"YRename method "getImageDimensions" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(“½’ûÿÿÿÿ
+mpython:S100ÿ>"PRename method "addTurtle" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÌÄìªşÿÿÿÿ
+ipython:S116Î"QRename this field "tableFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(“¼ò
+qpython:S117“"YRename this local variable "nowFocus" to match the regular expression ^[_a-z][a-z0-9_]*$.(İ›àú
+mpython:S117õ4"URename this parameter "firstTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(†ÖË›
+cpython:S107¡&"KMethod "addGrid" has 13 parameters, which is greater than the 7 authorized.(ì½¨õ
+lpython:S100Å"TRename method "_loadWinsound" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ó„¹
+npython:S117™"VRename this local variable "cName" to match the regular expression ^[_a-z][a-z0-9_]*$.(·§¼Ê
+qpython:S117Ò7"TRename this parameter "iconName" to match the regular expression ^[_a-z][a-z0-9_]*$.(°¡ùàşÿÿÿÿ
+opython:S100µ,"RRename method "_scaleMaker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¦÷íûüÿÿÿÿ
+jpython:S117ën"RRename this parameter "useVar" to match the regular expression ^[_a-z][a-z0-9_]*$.(í¹¼ã
+mpython:S100×D"VRename method "getTextAreaTags" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(­ëï"
+mpython:S117„1"URename this local variable "gMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(³ª­¼
+lpython:S117ñ5"TRename this parameter "newImage" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÅøŒ¾
+wpython:S100ó"ZRename method "MOUSE_POS_IN_WIDGET" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(—ÚûÁúÿÿÿÿ
+jpython:S100™E"RRename method "logTextArea" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷¿òå
+qpython:S100D"YRename method "textAreaUntagRange" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ôİì
+mpython:S100’&"PRename method "confTable" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(íé‡µûÿÿÿÿ
+ppython:S117ä/"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷ß±Ù
+tpython:S117ÇM"WRename this local variable "imgObj" to match the regular expression ^[_a-z][a-z0-9_]*$.(£Üª²ùÿÿÿÿ
+opython:S100—*"WRename method "destroySubWindow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(±ûÔ«
+ppython:S117®/"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôÃÂÖ
+jpython:S100É"SRename method "setInputFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(…Ñ¿
+}python:S1871ñI"dEither merge this branch with the identical one on line "9455" or change one of the implementations.(³î
+mpython:S100ç"PRename method "MAKE_FUNC" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ª²ß•üÿÿÿÿ
+upython:S100è."XRename method "getAllOptionBoxes" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(êÀˆ¦ÿÿÿÿÿ
+upython:S117ï%"XRename this parameter "columnNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬ÅÖëıÿÿÿÿ
+npython:S100°K"VRename method "clearAllEntries" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‹Ü¤ï
+qpython:S117¡$"TRename this parameter "tabTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(™äœÅúÿÿÿÿ
+mpython:S100òE"PRename method "setTreeBg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ô¥ìşÿÿÿÿ
+upython:S117Ûi"XRename this local variable "dataLen" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯Öùÿÿÿÿ
+ppython:S100ı"SRename method "getTtkThemes" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷Ä›õûÿÿÿÿ
+vpython:S117­"YRename this local variable "logGroup" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñÕëÆøÿÿÿÿ
+Dpython:S1481ˆ_"&Remove the unused local variable "tt".(åïÚçùÿÿÿÿ
+lpython:S100à"TRename method "_addContainer" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(›á“„
+ypython:S100üH"\Rename method "_buildValidationEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÃÉÑÓøÿÿÿÿ
+vpython:S117”"YRename this local variable "enterKey" to match the regular expression ^[_a-z][a-z0-9_]*$.(É¨’ ùÿÿÿÿ
+ypython:S100Å1"\Rename method "removeGoogleMapMarker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Áóé˜øÿÿÿÿ
+tpython:S107ıG"WMethod "addNumericLabelEntry" has 8 parameters, which is greater than the 7 authorized.(Ó•¹çùÿÿÿÿ
+<python:S125‹Q"Remove this commented out code.(Öÿ¿Éÿÿÿÿÿ
+npython:S117€"VRename this parameter "frameTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø®¶õ
+npython:S117£6"VRename this parameter "addToCache" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æ˜·¸
+vpython:S100÷2"YRename method "clearAllProperties" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‹è€÷şÿÿÿÿ
+ppython:S100åG"XRename method "addDirectoryEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ï¦•²
+vpython:S100ÿ$"YRename method "refreshDbOptionBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ç–¦•ıÿÿÿÿ
+lpython:S117¶"TRename this parameter "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(íÇäĞ
+qpython:S117®"TRename this parameter "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ì¤¬‡ÿÿÿÿÿ
+opython:S100Õ1"WRename method "getGoogleMapSize" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Â¸Ú–
+upython:S117Ók"XRename this local variable "newText" to match the regular expression ^[_a-z][a-z0-9_]*$.(ªÖ”ıÿÿÿÿ
+rpython:S3776ˆl"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(²ÈÿÛıÿÿÿÿ
+jpython:S100‚2"RRename method "_addPlotFig" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(àÉƒá
+rpython:S117µ"ZRename this local variable "labParent" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆ®Š
+opython:S117¦&"RRename this parameter "addRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹ÈÕ‘ùÿÿÿÿ
+spython:S100ÂL"[Rename method "addVerticalSeparator" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(…ÊÇÅ
+mpython:S100»"PRename method "unbindKey" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(í¦âßÿÿÿÿÿ
+ipython:S100ş"LRename method "getBg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ï¢İúÿÿÿÿ
+spython:S100ú3"VRename method "getAllSpinBoxes" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(­«éÏıÿÿÿÿ
+jpython:S100<"RRename method "setListItem" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‹ªóŒ
+hpython:S116©"PRename this field "enterKey" to match the regular expression ^[_a-z][_a-z0-9]*$.(È£¼—
+ppython:S117Ò5"SRename this parameter "overImg" to match the regular expression ^[_a-z][a-z0-9_]*$.(šöéƒúÿÿÿÿ
+kpython:S116òb"SRename this field "_italicFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(şëæ
+qpython:S117÷F"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(­ğØ÷
+ppython:S100•"SRename method "_windowEvent" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(„ô„úÿÿÿÿ
+qpython:S117Ù5"YRename this local variable "leaveImg" to match the regular expression ^[_a-z][a-z0-9_]*$.(ç©»
+ppython:S117ö^"XRename this local variable "sliceId" to match the regular expression ^[_a-z][a-z0-9_]*$.(½´™È
+spython:S117ı"VRename this parameter "loadThemes" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷Ä›õûÿÿÿÿ
+hpython:S100¬!"PRename method "startNote" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(êĞËı
+ppython:S100ç"SRename method "openSubFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³Ø€„ıÿÿÿÿ
+kpython:S100"SRename method "loadSettings" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Áòä·
+ppython:S100ÑS"XRename method "setStatusbarWidth" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õèÖõ
+rpython:S117‹]"ZRename this parameter "leftfillColour" to match the regular expression ^[_a-z][a-z0-9_]*$.(«—ˆ…
+zpython:S117‘"]Rename this local variable "stopFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(Çã™ûÿÿÿÿ
+cpython:S100ó"KRename method "TINT" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ıü†Ù
+qpython:S117ø	"YRename this local variable "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ïÔª±
+ipython:S100ñ"LRename method "setFg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(«×àµşÿÿÿÿ
+rpython:S117û6"URename this parameter "imageData" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÚÂî¬ıÿÿÿÿ
+qpython:S117¢>"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ò†ôø
+qpython:S117±'"TRename this parameter "newTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚³›ßúÿÿÿÿ
+rpython:S117U"URename this parameter "fileTypes" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ¡ùÌùÿÿÿÿ
+rpython:S100‰"URename method "openPanedFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(–±‘§üÿÿÿÿ
+vpython:S100¦N"YRename method "setToolbarDisabled" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÄÔş×üÿÿÿÿ
+npython:S100æP"VRename method "addMenuCheckBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(—Å–ª
+ppython:S117ü+"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÂ†Œ
+lpython:S116“"TRename this field "randomColour" to match the regular expression ^[_a-z][_a-z0-9]*$.(•³Ã
+npython:S117¦"QRename this parameter "eType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æº½µûÿÿÿÿ
+Kpython:S1481®V"-Remove the unused local variable "ParentBox".(çÛÍğøÿÿÿÿ
+ppython:S117‘0"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(”‰à½
+xpython:S100‚$"[Rename method "deleteTabbedFrameTab" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(½—¸úÿÿÿÿ
+vpython:S100c"YRename method "resumeCallFunction" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚ğ€°ıÿÿÿÿ
+kpython:S117"SRename this local variable "iX" to match the regular expression ^[_a-z][a-z0-9_]*$.(İ—Â¢
+upython:S100Õ!"XRename method "_tabbedFrameMaker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(”Å•øÿÿÿÿ
+mpython:S117›h"URename this parameter "addButton" to match the regular expression ^[_a-z][a-z0-9_]*$.(š¯Ô†
+npython:S100ı"VRename method "openTabbedFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸‚²„
+xpython:S100ıG"[Rename method "addNumericLabelEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ó•¹çùÿÿÿÿ
+lpython:S100ˆ"TRename method "SET_WIDGET_BG" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¿§êæ
+…python:S1845ós"gRename field "widgets" to prevent any misunderstanding/clash with field "WIDGETS" defined on line 14831(×†ëÆúÿÿÿÿ
+npython:S100÷G"VRename method "addNumericEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ºœç­
+jpython:S100¼"RRename method "afterCancel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(±ÍÕ°
+kpython:S107§%"NMethod "addDbTable" has 16 parameters, which is greater than the 7 authorized.(äœ´Ğøÿÿÿÿ
+npython:S100ŞM"WRename method "setToolbarPinned" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(äßŒA
+tpython:S117Ú "\Rename this local variable "pagedWindow" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ş¤šë
+npython:S100Ö	"VRename method "_translatePopup" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ã»·ô
+ppython:S117é"XRename this local variable "ToolTip" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÕÔòŞ
+xpython:S117ù"[Rename this local variable "singleFunc" to match the regular expression ^[_a-z][a-z0-9_]*$.(†ëıÙùÿÿÿÿ
+kpython:S117úl"SRename this parameter "cellNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ™£ô
+opython:S100Ò"WRename method "PARSE_TWO_PARAMS" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ş¥æÎ
+qpython:S100‘*"TRename method "hideSubWindow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Î÷¯êûÿÿÿÿ
+qpython:S117ˆQ"YRename this local variable "imageObj" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÂŸ
+mpython:S117t"VRename this parameter "widgetType" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾îe
+tpython:S100µ."WRename method "addTickOptionBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(í§àªÿÿÿÿÿ
+qpython:S100İB"TRename method "addEmptyLabel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÀĞÜûÿÿÿÿ
+spython:S116…"VRename this field "processQueueId" to match the regular expression ^[_a-z][_a-z0-9]*$.(¤¾¾Ëøÿÿÿÿ
+npython:S116©Z"QRename this field "clickFunc" to match the regular expression ^[_a-z][_a-z0-9]*$.(¾ò÷Æøÿÿÿÿ
+upython:S100ŠE"XRename method "clearAllTextAreas" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(şˆ´ûÿÿÿÿ
+ppython:S117±)"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰Á´ƒ
+mpython:S100Ö"PRename method "setInPadX" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¿ÑŒäıÿÿÿÿ
+spython:S100¢)"VRename method "startFrameStack" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(âÊ€†ıÿÿÿÿ
+qpython:S100É&"TRename method "deleteGridRow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ûğ®ıÿÿÿÿ
+opython:S117É&"RRename this parameter "rowNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ûğ®ıÿÿÿÿ
+lpython:S100º"TRename method "_loadNanojpeg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¢ÊÔ¡
+qpython:S117çj"YRename this local variable "rowCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÉåÇ
+opython:S117¬l"WRename this local variable "rowPos" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î°
+rpython:S117¢&"URename this parameter "addButton" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹şØ¥ûÿÿÿÿ
+qpython:S117âg"TRename this parameter "isHeader" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú¶¤÷ıÿÿÿÿ
+ppython:S117Šj"XRename this local variable "cellNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(»¯ é
+opython:S100Ù2"WRename method "getAllProperties" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÎŸäñ
+jpython:S100ê	"RRename method "setLanguage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¬“ßÃ
+upython:S100·<"XRename method "clearAllListBoxes" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(»Ú³–øÿÿÿÿ
+kpython:S100Ó>"NRename method "getLink" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(à‡äÆûÿÿÿÿ
+lpython:S100L"ORename method "setMeter" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Î©æÿÿÿÿÿ
+ipython:S117ï3"QRename this parameter "toVal" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëí¾¡
+ipython:S100°>"QRename method "_linkMaker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÿÄÅ¼
+fpython:S116Ö"NRename this field "pinBut" to match the regular expression ^[_a-z][_a-z0-9]*$.(½î¡£
+mpython:S116˜S"URename this field "_statusFields" to match the regular expression ^[_a-z][_a-z0-9]*$.(†öåû
+qpython:S100º?"TRename method "addCanvasText" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‘èÀùÿÿÿÿ
+ipython:S107Ï)"LMethod "subWindow" has 8 parameters, which is greater than the 7 authorized.(ˆÖ’Ğÿÿÿÿÿ
+jpython:S100Í9"RRename method "radioButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³¬
+jpython:S117¡&"RRename this parameter "addRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(ì½¨õ
+opython:S100Ø+"WRename method "addNamedCheckBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(†¬È–
+upython:S117ô"XRename this local variable "theFunc" to match the regular expression ^[_a-z][a-z0-9_]*$.(³ïôëùÿÿÿÿ
+spython:S117*"[Rename this parameter "useStopFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(·ˆ¢
+kpython:S117¤U"SRename this parameter "dirName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÁŸìÚ
+mpython:S100Ï)"PRename method "subWindow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ˆÖ’Ğÿÿÿÿÿ
+mpython:S100ä"URename method "openFrameStack" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(š¶ŠÕ
+opython:S117Œ%"WRename this local variable "addRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(’‹ÆÈ
+opython:S116ìb"WRename this field "oldCallFunction" to match the regular expression ^[_a-z][_a-z0-9]*$.(áºó 
+qpython:S117Ï9"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶ÉÅÂ
+wpython:S100æ"ZRename method "_widgetHasContainer" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‡’ÉÀıÿÿÿÿ
+tpython:S100¡"WRename method "removeWidgetType" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(áğ‰øÿÿÿÿ
+npython:S100¼&"QRename method "addGridRow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(š•‡Ïıÿÿÿÿ
+tpython:S117ïp"WRename this parameter "terrainType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æ…şÑùÿÿÿÿ
+lpython:S116¶A"TRename this field "accessOrigFg" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ü¢õõ
+Fpython:S1481îN"(Remove the unused local variable "data".(ÎÃµÛúÿÿÿÿ
+upython:S117üM"XRename this local variable "imgFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ãò£³ûÿÿÿÿ
+kpython:S100°S"SRename method "setStatusbar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¥œò
+opython:S117èl"XRename this local variable "cellNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ãø¥x
+tpython:S100ç"\Rename method "_getContainerProperty" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(½ƒ„×
+mpython:S100’"URename method "openScrollPane" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰¨Ûõ
+lpython:S3776™-"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÔÁ·	
+vpython:S100æ,"YRename method "showScaleIntervals" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÕÉ½ÿÿÿÿÿ
+opython:S100å%"RRename method "addTableRow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(à¬Ùşÿÿÿÿ
+jpython:S100ÑN"RRename method "showToolbar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÏåÒ¡
+fpython:S100ÔE"NRename method "addTree" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³·‘¶
+ipython:S107™h"LMethod "__init__" has 13 parameters, which is greater than the 7 authorized.(ƒïäªùÿÿÿÿ
+spython:S100ü2"VRename method "resetProperties" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¤½ ¦ùÿÿÿÿ
+fpython:S107‚2"NMethod "_addPlotFig" has 8 parameters, which is greater than the 7 authorized.(àÉƒá
+zpython:S100“"bRename method "_registerExternalDropTarget" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(•Îóò
+npython:S100ÓH"VRename method "_buildFileEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¢€ÅÖ
+kpython:S117"SRename this local variable "cX" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹Ÿ´´
+npython:S100ñ5"VRename method "hasImageChanged" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÅøŒ¾
+gpython:S116¹"ORename this field "Widgets" to match the regular expression ^[_a-z][_a-z0-9]*$.(ˆÍ­”
+spython:S116‘X"VRename this field "listBoxShowing" to match the regular expression ^[_a-z][_a-z0-9]*$.(†Òİ¸ıÿÿÿÿ
+vpython:S100éP"YRename method "addMenuRadioButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(§õ½ñùÿÿÿÿ
+wpython:S117ŸV"ZRename this local variable "ParentBox" to match the regular expression ^[_a-z][a-z0-9_]*$.(çÛÍğøÿÿÿÿ
+lpython:S116¶A"TRename this field "accessOrigBg" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ü¢õõ
+spython:S100¥8"VRename method "convertJpgToBmp" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¤ÖÍËıÿÿÿÿ
+ipython:S100—F"QRename method "getTreeXML" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ìª¬‡
+hpython:S100–?"PRename method "addCanvas" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ì³Ê
+jpython:S107ş1"MMethod "addPlotFig" has 8 parameters, which is greater than the 7 authorized.(ö‡áùÿÿÿÿ
+npython:S116Ó"QRename this field "hasStatus" to match the regular expression ^[_a-z][_a-z0-9]*$.(¥“ŒÚûÿÿÿÿ
+kpython:S100ç"SRename method "getLabelFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¶ş®Ø
+<python:S125›$"Remove this commented out code.(¶ÅËÿÿÿÿÿ
+vpython:S117ù("YRename this local variable "frameNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôº¨ûÿÿÿÿ
+ipython:S100¦"QRename method "_bindEvent" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ôòë¾
+npython:S100İF"VRename method "addEmptyMessage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Òë¶
+jpython:S100›"RRename method "enableEnter" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ş“š
+npython:S100İP"QRename method "addSubMenu" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ËÜàûÿÿÿÿ
+vpython:S117Á%"YRename this parameter "actionHeading" to match the regular expression ^[_a-z][a-z0-9_]*$.(æ´İûÿÿÿÿ
+opython:S117q"WRename this local variable "imgObj" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æ˜øÁ
+npython:S116¶Y"QRename this field "fgHColour" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ó—™Õıÿÿÿÿ
+vpython:S100âQ"YRename method "getMenuRadioButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Á‰ËÇùÿÿÿÿ
+mpython:S100ğ$"URename method "refreshDbTable" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚¿‘ê
+vpython:S117ƒ	"YRename this local variable "widgType" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡Å¨’şÿÿÿÿ
+qpython:S100¤"YRename method "increaseButtonFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¿ç¯Â
+hpython:S100Ù"PRename method "setInPadY" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(«ì´í
+qpython:S100»;"TRename method "updateListBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ü¦ª¢ùÿÿÿÿ
+gpython:S1007"ORename method "getImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÅÒœ’
+opython:S117¥U"RRename this parameter "asFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(”£Öùÿÿÿÿ
+rpython:S117¡2"URename this local variable "yLab" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í¼ø·şÿÿÿÿ
+qpython:S117Äi"YRename this local variable "cellsLen" to match the regular expression ^[_a-z][a-z0-9_]*$.(ê­‚ò
+ppython:S117¶O"XRename this local variable "theMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(µõî×
+spython:S117P"[Rename this local variable "singleFunc" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÀšİ
+ppython:S117‹A"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.( ÛŠã
+upython:S117÷2"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹è€÷şÿÿÿÿ
+tpython:S100°1"WRename method "setGoogleMapZoom" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Âñ§üÿÿÿÿ
+spython:S100Ñ@"VRename method "setDatePickerFg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(›ÃõÖşÿÿÿÿ
+rpython:S117ú"ZRename this local variable "inPadding" to match the regular expression ^[_a-z][a-z0-9_]*$.(½òë¢
+<python:S125¸8"Remove this commented out code.(ûûş‡ÿÿÿÿÿ
+tpython:S100ß5"WRename method "setImageLocation" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³¹£èûÿÿÿÿ
+ipython:S100¬Q"QRename method "enableMenu" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åıØÆ
+jpython:S100Ó"RRename method "setIPadding" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜õÁ©
+jpython:S107Ä("MMethod "scrollPane" has 8 parameters, which is greater than the 7 authorized.(£½õøşÿÿÿÿ
+xpython:S100§:"[Rename method "clearAllRadioButtons" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚íÁ…ùÿÿÿÿ
+kpython:S117“j"SRename this parameter "rowData" to match the regular expression ^[_a-z][a-z0-9_]*$.(à’¥ã
+spython:S117ƒt"VRename this parameter "widgetType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğ¶ô­üÿÿÿÿ
+ipython:S100Û3"QRename method "addSpinBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰èÊÛ
+mpython:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(¿§êæ
+jpython:S100¹)"RRename method "selectFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(œüÙÔ
+ipython:S100¾M"QRename method "_setPinBut" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Üù°Ü
+upython:S117‰c"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÓûÃşÿÿÿÿ
+xpython:S117ÙU"[Rename this local variable "defaultVar" to match the regular expression ^[_a-z][a-z0-9_]*$.(·‹Âöşÿÿÿÿ
+lpython:S100J"TRename method "getAllEntries" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(’¾’ 
+rpython:S100İ)"URename method "startSubWindow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õìğÈÿÿÿÿÿ
+lpython:S100Ü8"TRename method "removeBgImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(›‹Òñ
+7python:S125íq"Remove this commented out code.(¤Ûßˆ
+upython:S117·<"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(»Ú³–øÿÿÿÿ
+fpython:S100à"NRename method "setPadY" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¼ì‘ï
+ppython:S100Î"XRename method "_importPngimagetk" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¥Ùß”
+qpython:S117Á<"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(±Îñ²
+lpython:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(é³8
+rpython:S100Ùs"URename method "restoreOldData" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(êûÉõÿÿÿÿÿ
+vpython:S117l"YRename this local variable "rowCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñåŒ¹úÿÿÿÿ
+mpython:S3776ò"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(õ†Ìâ
+opython:S100Ü#"RRename method "tabbedFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õê›Âûÿÿÿÿ
+mpython:S100ŒT"URename method "_enableTooltip" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(û¹µó
+gpython:S116Á	"ORename this field "winIcon" to match the regular expression ^[_a-z][_a-z0-9]*$.(øÀŸŸ
+opython:S116Ä	"RRename this field "accessMade" to match the regular expression ^[_a-z][_a-z0-9]*$.(ĞŠ¦»úÿÿÿÿ
+rpython:S116""URename this field "changeOnFocus" to match the regular expression ^[_a-z][_a-z0-9]*$.(Î³¾şüÿÿÿÿ
+ppython:S100™c"SRename method "beenModified" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(”šîïüÿÿÿÿ
+mpython:S3776‘0"TRefactor this function to reduce its Cognitive Complexity from 65 to the 15 allowed.(”‰à½
+lpython:S117"TRename this parameter "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Áòä·
+qpython:S117"YRename this local variable "widgType" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨ê¿Š
+kpython:S100†Q"SRename method "setMenuImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(—§·›
+kpython:S100Ê>"NRename method "addLink" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ú©œúÿÿÿÿ
+xpython:S117Ö\"[Rename this parameter "rightfillColour" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï·ê«ıÿÿÿÿ
+jpython:S100Q"RRename method "setMenuIcon" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ñûµ
+epython:S100ÖU"NRename method "textBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(íüº<
+mpython:S117("URename this parameter "pageTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÀÎ€¡
+wpython:S107îG"ZMethod "addLabelValidationEntry" has 8 parameters, which is greater than the 7 authorized.(¸°÷™ûÿÿÿÿ
+hpython:S100£6"PRename method "_getImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Æ˜·¸
+mpython:S100‚F"URename method "setTreeColours" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‘µâë
+mpython:S100¨"URename method "_loadThreading" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Şèµ
+spython:S100Ş;"VRename method "getAllListBoxes" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(´Æı€şÿÿÿÿ
+rpython:S117´"URename this parameter "canResize" to match the regular expression ^[_a-z][a-z0-9_]*$.(œ†Œ³ûÿÿÿÿ
+spython:S100’"VRename method "_globalBindings" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ó¤Ñìøÿÿÿÿ
+opython:S116’"RRename this field "userSounds" to match the regular expression ^[_a-z][_a-z0-9]*$.(‹ê¦ñûÿÿÿÿ
+jpython:S107–)"MMethod "frameStack" has 8 parameters, which is greater than the 7 authorized.(¤ïœÿûÿÿÿÿ
+gpython:S100«"ORename method "bindKeys" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾›§ô
+jpython:S107è3"RMethod "addSpinBoxRange" has 9 parameters, which is greater than the 7 authorized.(¾¸‰Ê
+npython:S100ê"QRename method "getPadding" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ª½³õşÿÿÿÿ
+hpython:S100­"PRename method "_getItems" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ş°¾ü
+wpython:S100Œ0"_Rename method "setOptionBoxDisabledChar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¨àÔƒ
+npython:S117´"VRename this local variable "Queue" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŒÉ«Ë
+lpython:S100ÆS"URename method "setStatusbarFg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾Àñ
+npython:S100–)"QRename method "frameStack" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¤ïœÿûÿÿÿÿ
+mpython:S100³)"PRename method "prevFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Á•Í¬şÿÿÿÿ
+jpython:S107˜'"MMethod "labelFrame" has 9 parameters, which is greater than the 7 authorized.(ËÈŠæıÿÿÿÿ
+rpython:S117˜'"URename this parameter "hideTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(ËÈŠæıÿÿÿÿ
+opython:S100¾)"RRename method "countFrames" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(é½‹úÿÿÿÿ
+kpython:S117«#"SRename this parameter "tabName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ã°Í¦
+vpython:S117§7"YRename this local variable "leaveImg" to match the regular expression ^[_a-z][a-z0-9_]*$.(šó×Òùÿÿÿÿ
+qpython:S100Q"TRename method "enableMenubar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ˆÙŞ§ûÿÿÿÿ
+ppython:S117ÊQ"XRename this local variable "theMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(µõî×
+xpython:S117å`"[Rename this local variable "buttonFont" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ä·Ç¼ıÿÿÿÿ
+opython:S117Õ!"RRename this parameter "useTtk" to match the regular expression ^[_a-z][a-z0-9_]*$.(”Å•øÿÿÿÿ
+rpython:S117ğ"ZRename this local variable "entryBase" to match the regular expression ^[_a-z][a-z0-9_]*$.(­¬€ê
+npython:S100–c"VRename method "bindChangeEvent" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ù¶£ù
+upython:S117‰P"XRename this local variable "subMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(°Íºæùÿÿÿÿ
+ppython:S100™."SRename method "addOptionBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¥¢÷·ùÿÿÿÿ
+ppython:S107Â."XMethod "addLabelTickOptionBox" has 9 parameters, which is greater than the 7 authorized.(ìë­¦
+tpython:S117Ó"]Rename this local variable "ConfigParser" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜¾ìz
+ipython:S101ğW"LRename class "ajFrame" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ù¸ààùÿÿÿÿ
+opython:S100´c"WRename method "highlightPattern" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰çó
+upython:S117O"XRename this local variable "theMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÁØÜòıÿÿÿÿ
+ppython:S116”S"SRename this field "statusFrame" to match the regular expression ^[_a-z][_a-z0-9]*$.(ŸÚ‰úÿÿÿÿ
+ypython:S117ë("\Rename this local variable "frameNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù½Öÿÿÿÿÿ
+mpython:S100Õ&"URename method "replaceGridRow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¯¯Ö
+spython:S117•;"VRename this local variable "allOk" to match the regular expression ^[_a-z][a-z0-9_]*$.(×‘Å¥ÿÿÿÿÿ
+qpython:S100³1"TRename method "zoomGoogleMap" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ô§æÆùÿÿÿÿ
+hpython:S100?"PRename method "getTurtle" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¨µ“Ç
+ppython:S116‚""SRename this field "changeEvent" to match the regular expression ^[_a-z][_a-z0-9]*$.(˜×’ÿıÿÿÿÿ
+ppython:S100©F"SRename method "generateTree" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(û–È»ûÿÿÿÿ
+rpython:S100ä/"ZRename method "renameOptionBoxItem" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷ß±Ù
+npython:S100ß3"VRename method "addLabelSpinBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÜêÄ
+rpython:S3776¡Z"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ğŠøøÿÿÿÿ
+kpython:S117N"SRename this parameter "imgFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(œø×ç
+ipython:S100ö3"QRename method "getSpinBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(êóö„
+spython:S117Ñk"[Rename this local variable "defaultVar" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğùçé
+mpython:S117Ñ&"URename this parameter "rowNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾Ş½Ÿ
+opython:S107Ï("RMethod "startScrollPane" has 8 parameters, which is greater than the 7 authorized.(ØÉé¶ÿÿÿÿÿ
+opython:S100¸J"RRename method "_upperEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(«™äûÿÿÿÿ
+vpython:S117ÀE"YRename this local variable "dblClick" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰ì¨Šúÿÿÿÿ
+wpython:S100£;"ZRename method "selectListItemAtPos" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(†©Şüÿÿÿÿ
+{python:S117‰m"^Rename this local variable "selectedCells" to match the regular expression ^[_a-z][a-z0-9_]*$.(±·‰øÿÿÿÿ
+spython:S100ı:"VRename method "setListBoxGroup" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(î–ÜÄıÿÿÿÿ
+qpython:S117”R"YRename this local variable "editMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼É““
+lpython:S117›h"TRename this parameter "showMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(š¯Ô†
+spython:S100ï3"[Rename method "addLabelSpinBoxRange" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ëí¾¡
+tpython:S100ñL"WRename method "addToolbarButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÖÛÑ›üÿÿÿÿ
+Gpython:S1481ô6")Remove the unused local variable "label".(Ÿê“Ùşÿÿÿÿ
+npython:S116ê"QRename this field "labelFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(¿ŞüÇûÿÿÿÿ
+spython:S100¡Z"VRename method "_makeAjTreeData" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ğŠøøÿÿÿÿ
+npython:S117¹t"VRename this parameter "widgetType" to match the regular expression ^[_a-z][a-z0-9_]*$.(°é‚‰
+gpython:S100“L"ORename method "addMeter" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³©Œó
+npython:S116ä"QRename this field "inPadding" to match the regular expression ^[_a-z][_a-z0-9]*$.(Òıšûÿÿÿÿ
+ppython:S117¹)"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(œüÙÔ
+mpython:S117&"URename this parameter "rowNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(³ ïš
+kpython:S100¢"SRename method "getContainer" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ªë‹Ã
+qpython:S100Õ2"TRename method "getProperties" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸„‘ıÿÿÿÿ
+qpython:S100"TRename method "openSubWindow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ã…›èøÿÿÿÿ
+jpython:S116‘"RRename this field "userImages" to match the regular expression ^[_a-z][_a-z0-9]*$.(©àÑ
+qpython:S116‰""TRename this field "tabContainer" to match the regular expression ^[_a-z][_a-z0-9]*$.(£ÿüßúÿÿÿÿ
+ipython:S107„\"LMethod "drawLines" has 8 parameters, which is greater than the 7 authorized.(¾î‰ÿÿÿÿÿ
+†python:S1845»:"hRename method "listBox" to prevent any misunderstanding/clash with method "listbox" defined on line 7479(¿«Ñ¡ùÿÿÿÿ
+rpython:S100ãI"ZRename method "setAutoEntryNumRows" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(îªµÌ
+lpython:S117M"TRename this parameter "findIcon" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰¯©–
+spython:S100ù"VRename method "setTransparency" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‹™ğøÿÿÿÿ
+wpython:S117ôj"ZRename this local variable "rowNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒâÈóüÿÿÿÿ
+Epython:S1481İ",Remove the unused local variable "loglevel".(Ğ†Â¶
+spython:S116—""VRename this field "inactiveCursor" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ù—›õùÿÿÿÿ
+ipython:S100¶>"QRename method "_buildLink" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(—û™§
+spython:S100ÁR"VRename method "_editMenuGetter" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‘…Šåûÿÿÿÿ
+lpython:S100ÄF"TRename method "_messageMaker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(èŠı
+spython:S117M"[Rename this local variable "singleFunc" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÀšİ
+kpython:S100é;"TRename method "getListBoxPos" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Í ŒN
+mpython:S100ü"VRename method "_positionWidget" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÚÎŸ8
+{python:S100îG"^Rename method "addLabelValidationEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸°÷™ûÿÿÿÿ
+spython:S100Ò	"VRename method "_translateSound" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ü„Ùüÿÿÿÿ
+npython:S116ñb"QRename this field "_boldFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(Æ¢ñ†ÿÿÿÿÿ
+epython:S116”s"MRename this field "Label" to match the regular expression ^[_a-z][_a-z0-9]*$.(íÔ™à
+fpython:S107¤B"NMethod "_labelMaker" has 9 parameters, which is greater than the 7 authorized.(æôÃå
+hpython:S116°"PRename this field "ttkTheme" to match the regular expression ^[_a-z][_a-z0-9]*$.(²±¿
+lpython:S117’P"TRename this parameter "menuName" to match the regular expression ^[_a-z][a-z0-9_]*$.(°“Ä´
+ppython:S100›!"SRename method "stopNotebook" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ö¬¼Óıÿÿÿÿ
+rpython:S117…7"URename this parameter "imageFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(’Ğ•üÿÿÿÿ
+gpython:S100—$"ORename method "setTabBg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(×ºõ
+ipython:S116¸Y"QRename this field "editEvent" to match the regular expression ^[_a-z][_a-z0-9]*$.(‰“Ùê
+lpython:S116Ör"ORename this field "OffsetY" to match the regular expression ^[_a-z][_a-z0-9]*$.(ò¤äóûÿÿÿÿ
+qpython:S117"YRename this local variable "editMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(šÌÀ
+opython:S117ÖU"XRename this parameter "defaultValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(íüº<
+vpython:S117¯O"YRename this parameter "createBinding" to match the regular expression ^[_a-z][a-z0-9_]*$.(É³±ÿÿÿÿÿÿ
+rpython:S100ÅQ"URename method "enableMenuItem" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒ€Üíüÿÿÿÿ
+mpython:S100î,"URename method "showScaleValue" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¶ÔÌ
+dpython:S116Ùr"LRename this field "Name" to match the regular expression ^[_a-z][_a-z0-9]*$.(€îá
+tpython:S117û"\Rename this local variable "ThemedStyle" to match the regular expression ^[_a-z][a-z0-9_]*$.(“Î–Ç
+npython:S117ŸR"VRename this local variable "eList" to match the regular expression ^[_a-z][a-z0-9_]*$.(òÿõÚ
+zpython:S117ô"bRename this local variable "FigureCanvasTkAgg" to match the regular expression ^[_a-z][a-z0-9_]*$.(×›Ò…
+rpython:S100Õ,"URename method "clearAllScales" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÙÂ³²ûÿÿÿÿ
+wpython:S117§V"ZRename this local variable "ParentBox" to match the regular expression ^[_a-z][a-z0-9_]*$.(çÛÍğøÿÿÿÿ
+kpython:S116€""SRename this field "selectedTab" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ò²™´
+npython:S100ô="QRename method "addButtons" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ëù°‰ûÿÿÿÿ
+npython:S116›V"QRename this field "theWidget" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÿö¶Ôøÿÿÿÿ
+vpython:S117ã"YRename this local variable "TreeItem" to match the regular expression ^[_a-z][a-z0-9_]*$.(é•ƒ†ùÿÿÿÿ
+fpython:S100Ğ"ORename method "setTitle" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(è²È
+kpython:S100¦c"NRename method "getText" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(º—Ö…úÿÿÿÿ
+‚python:S1871B"dEither merge this branch with the identical one on line "8477" or change one of the implementations.(¾ş«ÿÿÿÿÿ
+mpython:S100‡"URename method "_bindOverEvent" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(’ÄÕ
+rpython:S100ş%"URename method "deleteTableRow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¹³³ºúÿÿÿÿ
+mpython:S100·-"URename method "addDbOptionBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚íƒ
+qpython:S100³@"TRename method "addDatePicker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ëÀê şÿÿÿÿ
+gpython:S100áB"PRename method "addLabels" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(²Áı
+qpython:S117"YRename this local variable "ttkTheme" to match the regular expression ^[_a-z][a-z0-9_]*$.(íÿÛƒ
+zpython:S117-"]Rename this local variable "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(à¤ó¼ÿÿÿÿÿ
+jpython:S117ğ""SRename this parameter "tabName" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘‚Ñ9
+npython:S117²t"VRename this parameter "widgetType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿáúó
+kpython:S116×"TRename this field "copyAndPaste" to match the regular expression ^[_a-z][_a-z0-9]*$.(Øµ·
+upython:S100‰c"XRename method "pauseCallFunction" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÓûÃşÿÿÿÿ
+npython:S100Ín"QRename method "resetStack" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İñÒàıÿÿÿÿ
+jpython:S100¦,"RRename method "_buildScale" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(£ÀşŒ
+qpython:S117ç"TRename this parameter "funcName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ª²ß•üÿÿÿÿ
+rpython:S100ÍQ"URename method "renameMenuItem" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(æƒášúÿÿÿÿ
+ipython:S100ÊT"QRename method "warningBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ûÅÉù
+}python:S100¤D"`Rename method "textAreaApplyFontSelected" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(™¢ß‘ıÿÿÿÿ
+kpython:S117Á"SRename this parameter "afterId" to match the regular expression ^[_a-z][a-z0-9_]*$.(±õ¥Ô
+lpython:S117k"TRename this parameter "isHeader" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨„æ
+spython:S117Ìt"VRename this parameter "widgetType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿğ™ˆıÿÿÿÿ
+}python:S100…("`Rename method "showPagedWindowPageNumber" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(±“¦õúÿÿÿÿ
+npython:S117«t"VRename this parameter "widgetName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õïšë
+opython:S100Î"WRename method "removeAllWidgets" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Á¢Á¾
+jpython:S100¼"RRename method "_loadTurtle" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(íÖ¼Ì
+jpython:S100¤B"RRename method "_labelMaker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(æôÃå
+tpython:S117’("WRename this parameter "windowTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸Ÿëµÿÿÿÿÿ
+xpython:S100ó#"`Rename method "setTabbedFrameSelectedTab" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¬Çæï
+opython:S116Å"RRename this field "_labelFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(§ÇÖşÿÿÿÿÿ
+lpython:S100ú"ORename method "openPage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åÄşşÿÿÿÿ
+hpython:S100±)"PRename method "nextFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰Á´ƒ
+upython:S117Á%"XRename this parameter "actionButton" to match the regular expression ^[_a-z][a-z0-9_]*$.(æ´İûÿÿÿÿ
+upython:S1174"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(ß™òëşÿÿÿÿ
+gpython:S100íT"ORename method "floatBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾»ã
+rpython:S117‹"ZRename this local variable "labelFont" to match the regular expression ^[_a-z][a-z0-9_]*$.(ß…
+ipython:S100Ç"RRename method "getLogLevel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ëŠÀ5
+python:S100×@"bRename method "setDatePickerChangeFunction" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Á¶Õ…şÿÿÿÿ
+tpython:S117İE"WRename this local variable "xmlDoc" to match the regular expression ^[_a-z][a-z0-9_]*$.(Äğù²øÿÿÿÿ
+kpython:S116“"NRename this field "pollId" to match the regular expression ^[_a-z][_a-z0-9]*$.(³´½®øÿÿÿÿ
+ppython:S117/"XRename this local variable "maxSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ö•ôÌ
+ppython:S117‘;"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ã¶ôá
+lpython:S117š1"URename this local variable "gMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(«èô
+gpython:S100¶!"ORename method "stopNote" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(è¿Î
+ypython:S100ƒ"bRename method "_registerExternalDragSource" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ë½‡l
+upython:S100Å)"XRename method "frameStackAtStart" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÂØÇøşÿÿÿÿ
+rpython:S37763"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(®¯èüÿÿÿÿ
+vpython:S100İ"YRename method "_processEventQueue" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ÿ´ÎÃøÿÿÿÿ
+qpython:S100Ç"TRename method "getGuiPadding" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(•¬ù¤úÿÿÿÿ
+lpython:S100®?"TRename method "addCanvasOval" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(®ê¯ü
+xpython:S100áR"[Rename method "removeStatusbarField" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(™·‹’úÿÿÿÿ
+Apython:S108©")Either remove or fill this block of code.(ã‘Û¾
+xpython:S117î "[Rename this local variable "frameStack" to match the regular expression ^[_a-z][a-z0-9_]*$.(Íµ„Ğşÿÿÿÿ
+hpython:S116³Y"PRename this field "bgColour" to match the regular expression ^[_a-z][_a-z0-9]*$.(§Ü¸
+qpython:S117Á%"TRename this parameter "showMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(æ´İûÿÿÿÿ
+mpython:S117Ê7"URename this parameter "imageFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûŞ–Æ
+tpython:S100ô'"\Rename method "setPagedWindowButtons" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(²ì¢ÿ
+epython:S107°>"MMethod "_linkMaker" has 9 parameters, which is greater than the 7 authorized.(ÿÄÅ¼
+rpython:S117Á%"URename this parameter "addButton" to match the regular expression ^[_a-z][a-z0-9_]*$.(æ´İûÿÿÿÿ
+mpython:S117£6"URename this parameter "imagePath" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æ˜·¸
+rpython:S3776º"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(éÆåïıÿÿÿÿ
+ppython:S117è]"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(ä˜¥˜
+rpython:S100"URename method "_bindDragEvent" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜†®¨ûÿÿÿÿ
+kpython:S100æ5"SRename method "getImagePath" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.( ·‘»
+qpython:S100ˆ"TRename method "RANDOM_COLOUR" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(êÁµÉøÿÿÿÿ
+upython:S100­"XRename method "decreaseLabelFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(›ÒŞ™ıÿÿÿÿ
+kpython:S100é>"NRename method "addGrip" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(íî¢Ÿùÿÿÿÿ
+ipython:S100ß2"RRename method "getProperty" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(çÒËk
+wpython:S117Ê2"ZRename this local variable "haveTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(öË»Ùúÿÿÿÿ
+mpython:S100×="URename method "setButtonImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ì¢æ
+mpython:S3776£6"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(Æ˜·¸
+tpython:S117Ü."WRename this local variable "retVal" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ¯»»ıÿÿÿÿ
+gpython:S117‚F"ORename this parameter "bgH" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘µâë
+kpython:S100»:"NRename method "listBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¿«Ñ¡ùÿÿÿÿ
+qpython:S100İ<"TRename method "_configWidget" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(šÖ·ïúÿÿÿÿ
+tpython:S100¯Q"WRename method "_changeMenuState" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(œÑÇúÿÿÿÿ
+gpython:S116š""PRename this field "activeFg" to match the regular expression ^[_a-z][_a-z0-9]*$.(ƒ¾¢
+qpython:S107ôG"TMethod "addLabelAutoEntry" has 9 parameters, which is greater than the 7 authorized.(ªá‰Ïûÿÿÿÿ
+mpython:S100ş;"URename method "removeListItem" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒõ¤Î
+gpython:S100ÂJ"ORename method "_entryIn" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İÌ—ï
+spython:S100Ò1"[Rename method "getGoogleMapLocation" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(–”Éö
+kpython:S100Ù"SRename method "_loadHashlib" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¯ÿæê
+lpython:S100±&"TRename method "selectGridRow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ç ÉË
+mpython:S100Ì"PRename method "_configBg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Šî‚·şÿÿÿÿ
+npython:S100‹"VRename method "getRandomColour" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(çå„–
+<python:S125ş"Remove this commented out code.(Ğò˜şÿÿÿÿ
+ppython:S100áG"XRename method "addLabelFileEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(…Â¡ú
+wpython:S117í"ZRename this local variable "frameBase" to match the regular expression ^[_a-z][a-z0-9_]*$.(æ“å¯ıÿÿÿÿ
+rpython:S117%"ZRename this local variable "addButton" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŸŞÍ
+ipython:S116¬"QRename this field "appWindow" to match the regular expression ^[_a-z][_a-z0-9]*$.(¾÷Ëî
+npython:S100’T"VRename method "_disableTooltip" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(”æÏ±
+vpython:S100Û("YRename method "stopAllPanedFrames" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚Äù¯ûÿÿÿÿ
+opython:S100¿"WRename method "_isMouseInWidget" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÑçéŸ
+mpython:S100İ%"URename method "selectTableRow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œ»öç
+tpython:S117Ÿ1"WRename this parameter "proxyString" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿Ç©™ÿÿÿÿÿ
+upython:S100üC"XRename method "textAreaDeleteTag" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Û³´üÿÿÿÿ
+qpython:S117§&"TRename this parameter "showMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹şØ¥ûÿÿÿÿ
+opython:S100À"RRename method "_doTitleBar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ğçß¬ÿÿÿÿÿ
+lpython:S100*"TRename method "showSubWindow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(©ôÓ–
+rpython:S100¥C"URename method "_buildTextArea" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¦¥‘üÿÿÿÿ
+lpython:S100ùD"TRename method "clearTextArea" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Èëí¶
+mpython:S3776Öt"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(îµŠ
+fpython:S100ä"NRename method "getIcon" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ê¶¶õ
+opython:S100¯O"RRename method "addMenuItem" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(É³±ÿÿÿÿÿÿ
+Gpython:S1481¤e")Remove the unused local variable "shift".(¤â±ùÿÿÿÿ
+ipython:S116Ì"QRename this field "_linkFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(Á¸€œ
+hpython:S100·	"PRename method "_initVars" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜ÿ·˜
+opython:S100–H"RRename method "_buildEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÒÇ†¤øÿÿÿÿ
+npython:S3776×"URefactor this function to reduce its Cognitive Complexity from 117 to the 15 allowed.(ğú‚
+ppython:S100»"SRename method "getResizable" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ğãûÿùÿÿÿÿ
+|python:S100ğ'"_Rename method "setPagedWindowButtonsTop" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ğÊ·¾ıÿÿÿÿ
+opython:S100‹8"RRename method "shrinkImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(œĞç¬ÿÿÿÿÿ
+epython:S107ç("HMethod "frame" has 8 parameters, which is greater than the 7 authorized.(ßĞàşÿÿÿÿ
+qpython:S117â"YRename this local variable "linkArgs" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÀÂáİ
+upython:S117×k"XRename this parameter "columnNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(£õƒÿÿÿÿÿ
+qpython:S100¬<"TRename method "setListItemFg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷“ÆÉşÿÿÿÿ
+jpython:S100¿&"RRename method "addGridRows" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åˆõ±
+npython:S100‰<"WRename method "setListItemAtPos" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ó¶İD
+qpython:S1173"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(“°ˆ
+rpython:S117÷j"URename this parameter "rowNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÚêÔ®ıÿÿÿÿ
+hpython:S116½	"PRename this field "labWidth" to match the regular expression ^[_a-z][_a-z0-9]*$.(·»â
+kpython:S100µ"NRename method "getFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ĞÕÅÆúÿÿÿÿ
+ipython:S100º'"RRename method "toggleFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(À”¾
+ƒpython:S1871e"eEither merge this branch with the identical one on line "12940" or change one of the implementations.(ÏÍ¦½øÿÿÿÿ
+ipython:S100¡C"QRename method "_textMaker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ç£È³
+spython:S100ÎI"VRename method "appendAutoEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÅêıŸıÿÿÿÿ
+upython:S117Õ,"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÂ³²ûÿÿÿÿ
+qpython:S117õS"TRename this parameter "hideWarn" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûƒúÜùÿÿÿÿ
+qpython:S100Â"TRename method "setGuiPadding" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ì«ƒ‡ûÿÿÿÿ
+lpython:S117æY"ORename this parameter "bgH" to match the regular expression ^[_a-z][a-z0-9_]*$.(úº‡øÿÿÿÿ
+wpython:S117³%"ZRename this local variable "dataQuery" to match the regular expression ^[_a-z][a-z0-9_]*$.(áƒÿúÿÿÿÿÿ
+upython:S100¬J"XRename method "setEntryLowerCase" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(šœ¼øÿÿÿÿ
+mpython:S100ô"URename method "_loadTtkThemes" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‹îëÙ
+ppython:S117°<"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯‡è
+mpython:S100·)"PRename method "lastFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾šºùÿÿÿÿ
+ppython:S100”E"XRename method "highlightTextArea" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŒğÁ®
+upython:S117Îi"XRename this local variable "dataLen" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯Öùÿÿÿÿ
+npython:S100×"VRename method "configureWidget" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ğú‚
+jpython:S117—&"RRename this parameter "rowNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(Èì‹•
+kpython:S100Ü"NRename method "setPadX" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Â½˜êÿÿÿÿÿ
+fpython:S100¢L"ORename method "getMeter" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜ë¸g
+kpython:S100³T"NRename method "infoBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÅšÎ¡úÿÿÿÿ
+lpython:S100¦"TRename method "registerEvent" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ë™¼‡
+qpython:S116Ïs"TRename this field "OriginalText" to match the regular expression ^[_a-z][_a-z0-9]*$.(‡ÆèÅüÿÿÿÿ
+upython:S100¨4"XRename method "clearAllSpinBoxes" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(„©Î‰øÿÿÿÿ
+qpython:S117´"YRename this local variable "widgType" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨ê¿Š
+tpython:S117øs"WRename this local variable "newVar" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆÉ€ßùÿÿÿÿ
+gpython:S100Í"ORename method "setIPadX" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.( ™†×
+hpython:S100•9"PRename method "playSound" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ùÔÜ÷
+opython:S117œ	"XRename this local variable "imgTemp" to match the regular expression ^[_a-z][a-z0-9_]*$.(È¶Â(
+upython:S117·)"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾šºùÿÿÿÿ
+Hpython:S1066š`"/Merge this if statement with the enclosing one.(©·¢š
+lpython:S107á7"OMethod "_addImageObj" has 8 parameters, which is greater than the 7 authorized.(ò•Íùıÿÿÿÿ
+kpython:S100Õ<"SRename method "_buttonMaker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¡€ƒè
+npython:S100˜'"QRename method "labelFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ËÈŠæıÿÿÿÿ
+dpython:S107…L"LMethod "_addMeter" has 8 parameters, which is greater than the 7 authorized.(¡˜û
+vpython:S117¢&"YRename this parameter "actionHeading" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹şØ¥ûÿÿÿÿ
+lpython:S100©+"ORename method "checkBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ñà®Şúÿÿÿÿ
+kpython:S100êF"SRename method "clearMessage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(«¸Ú™
+Fpython:S1481—"-Remove the unused local variable "new_width".(ˆËã¯
+npython:S100®"QRename method "setLogFile" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ì¤¬‡ÿÿÿÿÿ
+qpython:S116µ"TRename this field "_getTopLevel" to match the regular expression ^[_a-z][_a-z0-9]*$.(œÇù‰üÿÿÿÿ
+rpython:S117î"ZRename this local variable "labelBase" to match the regular expression ^[_a-z][a-z0-9_]*$.(İÆæ
+fpython:S100ˆ"IRename method "gr" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(æÚÔäûÿÿÿÿ
+jpython:S100½J"RRename method "_lowerEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(—Æ¹î
+vpython:S117@"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÕÑ”²úÿÿÿÿ
+lpython:S3776ò"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(İÉ„[
+npython:S100î&"VRename method "startPanedFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(º¢ÌÂ
+spython:S117÷O"VRename this local variable "newRb" to match the regular expression ^[_a-z][a-z0-9_]*$.(Å÷»èşÿÿÿÿ
+ppython:S100Ù,"XRename method "setScaleIncrement" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(íò»•
+<python:S125«o"Remove this commented out code.(¡¶¸êşÿÿÿÿ
+vpython:S100¬"YRename method "_isWidgetContainer" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ö Åéùÿÿÿÿ
+gpython:S100üA"PRename method "_parsePos" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÃşúF
+qpython:S100şQ"TRename method "addMenuWindow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(á˜Ãüÿÿÿÿ
+upython:S100¿5"XRename method "setAnimationSpeed" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷ê»ïúÿÿÿÿ
+npython:S100¶"QRename method "unbindKeys" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ôƒë¡ùÿÿÿÿ
+kpython:S100Ò7"NRename method "addIcon" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°¡ùàşÿÿÿÿ
+fpython:S100×>"NRename method "setLink" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¡òìÀ
+opython:S100ËN"RRename method "hideToolbar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¨Œùÿÿÿÿ
+vpython:S117Ï"^Rename this local variable "containerData" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘Ğ”Õ
+tpython:S117ğ"WRename this local variable "noArgs" to match the regular expression ^[_a-z][a-z0-9_]*$.(Â„ˆéøÿÿÿÿ
+rpython:S100í"URename method "openLabelFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(†ÉÚÚøÿÿÿÿ
+upython:S117"XRename this local variable "isLinux" to match the regular expression ^[_a-z][a-z0-9_]*$.(’Åñ“úÿÿÿÿ
+xpython:S117‘*"[Rename this parameter "useStopFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î÷¯êûÿÿÿÿ
+jpython:S100¦G"RRename method "_entryMaker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ã—“±
+qpython:S117º"TRename this parameter "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(éÆåïıÿÿÿÿ
+opython:S100©Q"RRename method "disableMenu" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õ¸Şùúÿÿÿÿ
+hpython:S100äU"PRename method "numberBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(äàç
+ppython:S117Í&"XRename this parameter "columnNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(›ä Ø
+spython:S100À)"VRename method "getCurrentFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(²ñÔÊşÿÿÿÿ
+vpython:S100€3"YRename method "resetAllProperties" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(’·Ê™üÿÿÿÿ
+fpython:S100°"NRename method "setFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°úÿ§
+mpython:S116šV"PRename this field "theLabel" to match the regular expression ^[_a-z][_a-z0-9]*$.(›ëõñùÿÿÿÿ
+rpython:S117Şk"ZRename this local variable "cellCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉÊ±
+tpython:S1004"WRename method "_validateSpinBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(«ÁĞŠûÿÿÿÿ
+spython:S117‹]"[Rename this parameter "rightfillColour" to match the regular expression ^[_a-z][a-z0-9_]*$.(«—ˆ…
+ppython:S100Ê?"SRename method "_canvasMaker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ôñ¦†üÿÿÿÿ
+qpython:S100¾1"YRename method "setGoogleMapMarker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(£û‰¹
+rpython:S100Ê5"URename method "startAnimation" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(·Öúüøÿÿÿÿ
+rpython:S100ª'"URename method "stopLabelFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Úó’šüÿÿÿÿ
+qpython:S117™Q"YRename this local variable "numMenus" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÀŸ‰Ä
+ppython:S100ØN"SRename method "getAllInputs" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(§ƒº¢øÿÿÿÿ
+gpython:S100™-"PRename method "optionBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÔÁ·	
+qpython:S100‚Q"YRename method "setMenuRadioButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Šã€¶
+qpython:S100Â&"TRename method "addGridColumn" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ş°È³ÿÿÿÿÿ
+vpython:S100¥I"YRename method "setValidationEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ó’“Àÿÿÿÿÿ
+lpython:S100‡6"TRename method "_getImageData" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ìğşÒ
+vpython:S117«+"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(ËòØ˜ùÿÿÿÿ
+lpython:S116Ò"ORename this field "hasMenu" to match the regular expression ^[_a-z][_a-z0-9]*$.(ú†š‘ûÿÿÿÿ
+opython:S116·"RRename this field "eventQueue" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ë×Æûúÿÿÿÿ
+npython:S100¦K"QRename method "clearEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(£¬½Êúÿÿÿÿ
+rpython:S100ÕG"ZRename method "addLabelSecretEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ªÙù
+kpython:S117è3"SRename this parameter "fromVal" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾¸‰Ê
+hpython:S100Å*"QRename method "getVisible" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÚÖ¢s
+upython:S117ü2"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤½ ¦ùÿÿÿÿ
+upython:S117Å&"XRename this parameter "columnNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(´”¹›ıÿÿÿÿ
+ppython:S100ƒ"SRename method "openNotebook" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(½ªà¬øÿÿÿÿ
+<python:S125µp"Remove this commented out code.(’€Ş…ùÿÿÿÿ
+lpython:S100²?"TRename method "addCanvasLine" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(â”ôë
+opython:S107¢)"RMethod "startFrameStack" has 9 parameters, which is greater than the 7 authorized.(âÊ€†ıÿÿÿÿ
+tpython:S117ìi"WRename this parameter "pauseUpdate" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡Š¿éÿÿÿÿÿ
+xpython:S100 G"`Rename method "setValidationEntryLabelBg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰İŒõ
+ppython:S117ó2"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿ¶§İ
+spython:S100”*"[Rename method "confirmHideSubWindow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Á“Åİ
+npython:S100œ@"QRename method "datePicker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(É…ÿ°ûÿÿÿÿ
+ipython:S107Š]"LMethod "__init__" has 13 parameters, which is greater than the 7 authorized.(£Ù–Éÿÿÿÿÿ
+kpython:S107¯O"NMethod "addMenuItem" has 9 parameters, which is greater than the 7 authorized.(É³±ÿÿÿÿÿÿ
+ppython:S117¥#"SRename this parameter "tabName" to match the regular expression ^[_a-z][a-z0-9_]*$.(™±«¡şÿÿÿÿ
+rpython:S100´&"URename method "getGridEntries" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ä¦ÇÔÿÿÿÿÿ
+rpython:S1004"URename method "_setSpinBoxVal" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ß™òëşÿÿÿÿ
+rpython:S117»1"URename this local variable "gMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôæ‰ûÿÿÿÿ
+mpython:S116Õ"PRename this field "tbPinned" to match the regular expression ^[_a-z][_a-z0-9]*$.(ú‡¯ªüÿÿÿÿ
+fpython:S116±B"ORename this field "flashId" to match the regular expression ^[_a-z][_a-z0-9]*$.(¨ı¢V
+gpython:S117‚F"ORename this parameter "fgH" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘µâë
+upython:S117ßj"]Rename this local variable "columnNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢ÅÀ¡
+qpython:S100¥"TRename method "setFullscreen" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(…Àâøøÿÿÿÿ
+npython:S117”t"VRename this parameter "widgetType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Úâ÷í
+tpython:S117šo"WRename this parameter "proxyString" to match the regular expression ^[_a-z][a-z0-9_]*$.(·àÜÎıÿÿÿÿ
+upython:S100Å"XRename method "_loadConfigParser" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¹ì¿¬ıÿÿÿÿ
+hpython:S100ô"QRename method "logMessage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(é³8
+fpython:S116‡O"ORename this field "menuBar" to match the regular expression ^[_a-z][_a-z0-9]*$.(§âê&
+rpython:S117İ+"URename this local variable "bVar" to match the regular expression ^[_a-z][a-z0-9_]*$.(Íàöìüÿÿÿÿ
+dpython:S107À%"LMethod "addTable" has 15 parameters, which is greater than the 7 authorized.(©­–¨
+lpython:S100³"TRename method "SET_WIDGET_FG" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Š®–Ø
+ppython:S117ù]"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(çÑ„¾
+hpython:S107Å="PMethod "addIconButton" has 9 parameters, which is greater than the 7 authorized.(–—Ğê
+{python:S100ï#"^Rename method "setTabbedFrameTabExpand" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ù“ñûÿÿÿÿ
+jpython:S100Ë"SRename method "SET_LOCATION" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(êÁ­
+opython:S100†D"WRename method "textAreaTagRange" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Üº‘ä
+spython:S100ƒ6"VRename method "clearImageCache" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ãŠùÿÿÿÿ
+rpython:S117‰>"URename this local variable "bRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï®Ü°şÿÿÿÿ
+lpython:S100õ4"TRename method "_animateImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(†ÖË›
+Mpython:S1066°g"/Merge this if statement with the enclosing one.( ûıùÿÿÿÿ
+kpython:S117ä/"SRename this parameter "newName" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷ß±Ù
+qpython:S117Ü>"TRename this local variable "myF" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùÄ¬±øÿÿÿÿ
+rpython:S117¥U"URename this parameter "fileTypes" to match the regular expression ^[_a-z][a-z0-9_]*$.(”£Öùÿÿÿÿ
+kpython:S117µs"NRename this parameter "XY" to match the regular expression ^[_a-z][a-z0-9_]*$.(œªÃ­úÿÿÿÿ
+spython:S117ú"VRename this parameter "pageNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(åÄşşÿÿÿÿ
+gpython:S116÷m"ORename this field "canFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(¡Ì¨‰
+qpython:S100™<"YRename method "setListItemAtPosFg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(€ñşĞ
+npython:S100©c"VRename method "getTextAreaHash" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ä’ú
+hpython:S100†)"PRename method "stopFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(æ€˜’
+spython:S100¦"VRename method "setStopFunction" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŸºÏÀûÿÿÿÿ
+upython:S117:"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(ªä¾ùÿÿÿÿ
+opython:S117ÔH"WRename this local variable "vFrame" to match the regular expression ^[_a-z][a-z0-9_]*$.(“¥§‹
+rpython:S117 t"ZRename this local variable "widgGroup" to match the regular expression ^[_a-z][a-z0-9_]*$.(™ó“Ã
+ipython:S116ôm"QRename this field "canSelect" to match the regular expression ^[_a-z][_a-z0-9]*$.(¶¤é
+ipython:S100“$"QRename method "setTabFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(€ÁÇ
+tpython:S100º1"WRename method "setGoogleMapSize" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜è§Üıÿÿÿÿ
+spython:S100Œ?"VRename method "getTurtleScreen" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸Û–˜ûÿÿÿÿ
+rpython:S117¿1"URename this local variable "gMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôæ‰ûÿÿÿÿ
+qpython:S100ëG"YRename method "addValidationEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Š¹Ÿå
+jpython:S117òY"RRename this parameter "fgHCol" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘·×Í
+upython:S100Î'"XRename method "toggleToggleFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(µªı™üÿÿÿÿ
+npython:S100¤"QRename method "showSplash" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°¼ß·ıÿÿÿÿ
+ppython:S117é+"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(™”Æù
+vpython:S117…H"YRename this local variable "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ï¶¾Ôşÿÿÿÿ
+npython:S100µ)"QRename method "firstFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(­ƒğÚüÿÿÿÿ
+spython:S100ÜI"VRename method "changeAutoEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÌÎ­»úÿÿÿÿ
+tpython:S100ãP"WRename method "addMenuSeparator" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŒÄ”äùÿÿÿÿ
+upython:S116„"^Rename this field "preloadAnimatedImageId" to match the regular expression ^[_a-z][_a-z0-9]*$.(ğ¦²
+ppython:S100Ÿ"SRename method "disableEnter" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¶ôÏ“ûÿÿÿÿ
+ppython:S100 "SRename method "decreaseFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ˆí¡„ıÿÿÿÿ
+gpython:S100¬("ORename method "stopPage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŞŠşÔ
+opython:S116ób"WRename this field "_boldItalicFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ş¸ˆŸ
+upython:S100¿L"]Rename method "addHorizontalSeparator" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(œ·õÊ
+npython:S117œ2"VRename this parameter "keepLabels" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğ–İ
+xpython:S100·&"[Rename method "getGridSelectedCells" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(²¸¡Ğıÿÿÿÿ
+kpython:S116W"NRename this field "overFg" to match the regular expression ^[_a-z][_a-z0-9]*$.(øŠë˜üÿÿÿÿ
+{python:S117Í"^Rename this local variable "containerData" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŸÖ Úıÿÿÿÿ
+ppython:S117¦^"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿØû•
+lpython:S100ÔQ"ORename method "_getMenu" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ü—ÌÕüÿÿÿÿ
+upython:S117‚0"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒ·ÊÇşÿÿÿÿ
+kpython:S100¿;"SRename method "addListItems" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(íç˜¬
+qpython:S117ì$"TRename this parameter "entryPos" to match the regular expression ^[_a-z][a-z0-9_]*$.(£¬¯Ÿşÿÿÿÿ
+ipython:S100M"QRename method "addToolbar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰¯©–
+epython:S100…"MRename method "getRow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÔÉò–
+qpython:S117³"TRename this local variable "myF" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûİìéúÿÿÿÿ
+vpython:S100×&"YRename method "replaceAllGridRows" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Î•ªÔşÿÿÿÿ
+{python:S117%"^Rename this local variable "actionHeading" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿Çñœùÿÿÿÿ
+epython:S116ŒW"NRename this field "useTtk" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ø­®s
+qpython:S100ÓR"TRename method "addAppJarMenu" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ã ®İşÿÿÿÿ
+upython:S117¢&"XRename this parameter "actionButton" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹şØ¥ûÿÿÿÿ
+upython:S100á%"XRename method "selectTableColumn" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(±œèªşÿÿÿÿ
+ppython:S116ª"SRename this field "useSettings" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ä”è›úÿÿÿÿ
+ppython:S107ï3"XMethod "addLabelSpinBoxRange" has 10 parameters, which is greater than the 7 authorized.(ëí¾¡
+spython:S117®g"[Rename this parameter "useStopFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(úÓ¯†
+ppython:S100â"SRename method "_loadTooltip" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÁËşëùÿÿÿÿ
+opython:S116"RRename this field "appJarIcon" to match the regular expression ^[_a-z][_a-z0-9]*$.(²‚•Áúÿÿÿÿ
+ppython:S117â1"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜¦İ
+jpython:S116Ô"MRename this field "hasTb" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÒÁëşÿÿÿÿ
+qpython:S100•<"YRename method "setListItemAtPosBg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ùõ¹Ô
+hpython:S116‰"PRename this field "pollTime" to match the regular expression ^[_a-z][_a-z0-9]*$.(Èñ‘Ÿ
+spython:S116Ğr"VRename this field "OriginalCanvas" to match the regular expression ^[_a-z][_a-z0-9]*$.(¼µÃÖúÿÿÿÿ
+lpython:S100•J"ORename method "setEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¥¡¤×ùÿÿÿÿ
+ipython:S117Ì"QRename this parameter "cType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í³ï±
+spython:S117–
+"[Rename this local variable "getWidgets" to match the regular expression ^[_a-z][a-z0-9_]*$.(šäåÁ
+mpython:S100ù"URename method "threadCallback" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(áíé“
+npython:S100ø"QRename method "_checkFunc" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸ª³·øÿÿÿÿ
+opython:S117û&"WRename this local variable "reOpen" to match the regular expression ^[_a-z][a-z0-9_]*$.(êÁ•
+wpython:S117®V"ZRename this local variable "ParentBox" to match the regular expression ^[_a-z][a-z0-9_]*$.(çÛÍğøÿÿÿÿ
+hpython:S100Ó="PRename method "getButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(»Ùî
+opython:S100Ü+"RRename method "getCheckBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‡òÕşúÿÿÿÿ
+mpython:S3776“j"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(à’¥ã
+opython:S100™"RRename method "getFastStop" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¨£òşÿÿÿÿ
+rpython:S117¨("ZRename this local variable "pageTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŸÅ€Á
+upython:S117àD"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñóƒïûÿÿÿÿ
+upython:S117‡Q"XRename this local variable "theMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(à™‹ùÿÿÿÿ
+mpython:S100É"URename method "exitFullscreen" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ˆçÅ
+rpython:S100¦V"URename method "_makeWidgetBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ò›ªàûÿÿÿÿ
+jpython:S100Ç"MRename method "CENTER" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚µÉ„ıÿÿÿÿ
+opython:S117³o"WRename this local variable "imgObj" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ù¹·ö
+upython:S117ğ/"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(§í°ƒıÿÿÿÿ
+xpython:S100¾D"`Rename method "textAreaToggleTagSelected" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(—»é
+mpython:S3776âj"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(îÌü¼
+rpython:S107ú&"UMethod "panedFrameVertical" has 8 parameters, which is greater than the 7 authorized.(¸‹É™üÿÿÿÿ
+tpython:S117Ë "\Rename this local variable "toggleFrame" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂÑ 
+qpython:S117Î>"TRename this local variable "myF" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùÄ¬±øÿÿÿÿ
+jpython:S100­L"SRename method "setMeterFill" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(çÜ@
+tpython:S117šj"WRename this local variable "newRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(Û¢»ˆÿÿÿÿÿ
+qpython:S100£"TRename method "_enterWrapper" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ø¼ÅÈÿÿÿÿÿ
+wpython:S100ˆN"ZRename method "removeToolbarButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(µ”õ¨ûÿÿÿÿ
+lpython:S100˜!"TRename method "startNotebook" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰Ë¨“
+ppython:S117ÍQ"SRename this parameter "newName" to match the regular expression ^[_a-z][a-z0-9_]*$.(æƒášúÿÿÿÿ
+npython:S100®/"VRename method "changeOptionBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ôÃÂÖ
+ppython:S100Ù"SRename method "setLabelFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ú¢å·úÿÿÿÿ
+ppython:S100´"SRename method "setResizable" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(œ†Œ³ûÿÿÿÿ
+spython:S100œF"VRename method "getTreeSelected" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(€€ïôüÿÿÿÿ
+jpython:S100‚@"RRename method "addMicroBit" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(™½‘è
+Hpython:S1066¦/"/Merge this if statement with the enclosing one.(ÄùˆÂ
+opython:S100@"WRename method "setMicroBitPixel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ñÈâ
+kpython:S100ÔW"SRename method "_makeAjScale" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÁíÌ¯
+qpython:S117¢&"TRename this parameter "showMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹şØ¥ûÿÿÿÿ
+opython:S117°I"WRename this local variable "lStyle" to match the regular expression ^[_a-z][a-z0-9_]*$.(“‡·Å
+qpython:S100Æ5"TRename method "stopAnimation" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰¾ùÖúÿÿÿÿ
+<python:S125Œ+"Remove this commented out code.(ğĞú‚øÿÿÿÿ
+ppython:S100Ç"SRename method "hideTitleBar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(œªÙßüÿÿÿÿ
+dpython:S107g"LMethod "__init__" has 10 parameters, which is greater than the 7 authorized.(Üæ™º
+jpython:S107¤'"SMethod "startLabelFrame" has 10 parameters, which is greater than the 7 authorized.(È¢âS
+vpython:S117ÂU"YRename this local variable "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡êı¢øÿÿÿÿ
+npython:S117îf"VRename this parameter "defaultVar" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤»–Æ
+fpython:S117„s"NRename this parameter "XY" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÓÕ‚º
+mpython:S3776ÈJ"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(‹×åà
+wpython:S100Ï1"ZRename method "getGoogleMapTerrain" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(å®²âùÿÿÿÿ
+wpython:S117Ö\"ZRename this parameter "leftfillColour" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï·ê«ıÿÿÿÿ
+xpython:S117Õ"[Rename this local variable "PngImageTk" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯óòÎÿÿÿÿÿ
+rpython:S117§&"URename this parameter "addButton" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹şØ¥ûÿÿÿÿ
+zpython:S117¬+"]Rename this local variable "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(à¤ó¼ÿÿÿÿÿ
+rpython:S3776Ç4"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÅïŸïûÿÿÿÿ
+ipython:S100„"LRename method "getFg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°Á®Šùÿÿÿÿ
+rpython:S100ï	"URename method "changeLanguage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(äÛÀçşÿÿÿÿ
+vpython:S117‚!"YRename this local variable "subFrame" to match the regular expression ^[_a-z][a-z0-9_]*$.(›ÛÂ§ıÿÿÿÿ
+opython:S117–"XRename this local variable "logFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤ƒà?
+rpython:S100‹D"ZRename method "textAreaTagSelected" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(§Å“…
+npython:S100ŸI"VRename method "setEntryInvalid" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ëÛ˜ç
+qpython:S100¾,"TRename method "addLabelScale" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ªøğÿÿÿÿÿ
+kpython:S116ğb"SRename this field "_normalFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(ğÄÍä
+upython:S117¨%"XRename this parameter "actionButton" to match the regular expression ^[_a-z][a-z0-9_]*$.(œœéşşÿÿÿÿ
+gpython:S100Ô"ORename method "getTitle" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ü«…¹
+wpython:S117—V"ZRename this local variable "ParentBox" to match the regular expression ^[_a-z][a-z0-9_]*$.(çÛÍğøÿÿÿÿ
+lpython:S100ïP"ORename method "_setMenu" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜°ÔÇûÿÿÿÿ
+lpython:S100A"TRename method "getDatePicker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Å áŒ
+ppython:S117ç2"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹åóó
+ppython:S100Ø7"SRename method "addImageData" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰ü…åÿÿÿÿÿ
+ppython:S117Ø1"XRename this parameter "fileLocation" to match the regular expression ^[_a-z][a-z0-9_]*$.(£ƒøû
+mpython:S116•"PRename this field "topLevel" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ë­‹³úÿÿÿÿ
+tpython:S117"WRename this parameter "useSettings" to match the regular expression ^[_a-z][a-z0-9_]*$.(–®Ã¡şÿÿÿÿ
+spython:S100Ç)"VRename method "frameStackAtEnd" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ê¶çèùÿÿÿÿ
+npython:S117¹t"VRename this parameter "widgetName" to match the regular expression ^[_a-z][a-z0-9_]*$.(°é‚‰
+ipython:S100ÇF"QRename method "addMessage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ëı”À
+kpython:S100Ës"SRename method "storeOldData" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(şÓ»ñ
+ppython:S116Ç"SRename this field "_statusFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(ñÊÀ¥ÿÿÿÿÿ
+qpython:S117„="YRename this local variable "custFont" to match the regular expression ^[_a-z][a-z0-9_]*$.(–©êô
+lpython:S116¨Z"TRename this field "dblClickFunc" to match the regular expression ^[_a-z][_a-z0-9]*$.(ê¼°Ä
+rpython:S117ö@"URename this parameter "startYear" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìèàõüÿÿÿÿ
+jpython:S100İG"SRename method "addFileEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(©ó§B
+npython:S100ë"VRename method "_loadMatplotlib" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(“îÍª
+ipython:S116Š"QRename this field "_fastStop" to match the regular expression ^[_a-z][_a-z0-9]*$.(î¹¡
+opython:S100¡"RRename method "setPollTime" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ªÎâøÿÿÿÿ
+rpython:S117Ô"ZRename this parameter "ignoreSettings" to match the regular expression ^[_a-z][a-z0-9_]*$.(ßÆéş
+lpython:S100ÍG"TRename method "addLabelEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(®ÏÓÒ
+jpython:S116 ""RRename this field "disabledFg" to match the regular expression ^[_a-z][_a-z0-9]*$.(Øˆ®ñ
+spython:S100¾-"VRename method "_buildOptionBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Û¯ò®ûÿÿÿÿ
+gpython:S100¸K"ORename method "getFocus" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(±éÊà
+ipython:S100µ"QRename method "getSetting" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ºá™ú
+rpython:S100Á"URename method "startContainer" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(º¹˜ıÿÿÿÿ
+{python:S100˜N"^Rename method "setToolbarButtonEnabled" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(´œºíıÿÿÿÿ
+vpython:S117ˆ="YRename this local variable "errorMsg" to match the regular expression ^[_a-z][a-z0-9_]*$.(î£ıÿÿÿÿ
+upython:S117µ)"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(­ƒğÚüÿÿÿÿ
+qpython:S117>"YRename this local variable "tempFunc" to match the regular expression ^[_a-z][a-z0-9_]*$.(ä‹Ş´
+qpython:S116ëb"TRename this field "callFunction" to match the regular expression ^[_a-z][_a-z0-9]*$.(‡Ø‰“ÿÿÿÿÿ
+mpython:S116ÄR"PRename this field "editMenu" to match the regular expression ^[_a-z][_a-z0-9]*$.(‰»öÈùÿÿÿÿ
+vpython:S117¸2"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(½”ùÊÿÿÿÿÿ
+ypython:S100”4"\Rename method "_getSpinBoxValsAsList" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ïÔÊŒûÿÿÿÿ
+mpython:S100ùM"URename method "setToolbarIcon" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(áˆË™
+mpython:S100ÂV"URename method "_makeSeparator" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‹Ø¾
+qpython:S117ñ5"YRename this parameter "originalImage" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÅøŒ¾
+npython:S100ó2"VRename method "clearProperties" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÿ¶§İ
+npython:S100îE"VRename method "setTreeEditable" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¥É¼Ò
+upython:S117³)"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(Á•Í¬şÿÿÿÿ
+kpython:S116“""SRename this field "widgetStore" to match the regular expression ^[_a-z][_a-z0-9]*$.(°¢‡Ï
+kpython:S100ô"NRename method "getSize" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‡Åîâùÿÿÿÿ
+gpython:S107¦G"OMethod "_entryMaker" has 11 parameters, which is greater than the 7 authorized.(ã—“±
+kpython:S100¾?"URename method "addCanvasImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ê¹f
+spython:S100"VRename method "getTransparency" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(”ß•šÿÿÿÿÿ
+ppython:S117ÂQ"XRename this local variable "theMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(µõî×
+gpython:S100À%"ORename method "addTable" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(©­–¨
+kpython:S1003"NRename method "spinBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(®¯èüÿÿÿÿ
+ppython:S117ô%"XRename this parameter "columnNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(®¼‹†
+gpython:S100±$"ORename method "startTab" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(›îşÍ
+rpython:S3776÷j"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÚêÔ®ıÿÿÿÿ
+spython:S100ó"VRename method "_getContainerFg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŠØİéıÿÿÿÿ
+<python:S125ÆO"Remove this commented out code.(İ–Õùÿÿÿÿÿ
+jpython:S100ñ="RRename method "_addButtons" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ğõµ
+rpython:S100ÜS"URename method "clearStatusbar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ó¿ÌÛıÿÿÿÿ
+qpython:S117´j"YRename this local variable "butCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ş’¥ì
+tpython:S100½"WRename method "configureWidgets" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(À¡©Óùÿÿÿÿ
+rpython:S100Æ?"URename method "setCanvasEvent" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(„ªëşÿÿÿÿ
+spython:S117¦t"VRename this parameter "widgetName" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ëëÕøÿÿÿÿ
+dpython:S107"LMethod "__init__" has 10 parameters, which is greater than the 7 authorized.(ªù©¿
+jpython:S100ƒ"RRename method "setLocation" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ëœø×
+epython:S107Û3"MMethod "addSpinBox" has 8 parameters, which is greater than the 7 authorized.(‰èÊÛ
+opython:S100c"XRename method "clearModifiedFlag" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(úûÔ[
+upython:S117£;"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(†©Şüÿÿÿÿ
+upython:S117•J"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥¡¤×ùÿÿÿÿ
+kpython:S100Ş*"SRename method "_getLabelBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¢ãóù
+lpython:S117Å="TRename this parameter "iconName" to match the regular expression ^[_a-z][a-z0-9_]*$.(–—Ğê
+kpython:S107Ü#"NMethod "tabbedFrame" has 8 parameters, which is greater than the 7 authorized.(õê›Âûÿÿÿÿ
+ipython:S100û"QRename method "setMinSize" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¦øÍ‚
+rpython:S117ó6"URename this parameter "imageFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûå«Ùıÿÿÿÿ
+lpython:S100ş,"TRename method "setScaleRange" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Š¯
+Mpython:S1066¶C"/Merge this if statement with the enclosing one.(Æ¡¦•ıÿÿÿÿ
+jpython:S117×i"RRename this parameter "rowNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(´³È«
+rpython:S100£*"URename method "cleanseWidgets" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ëı³Ïùÿÿÿÿ
+ypython:S117”"\Rename this local variable "hideBorders" to match the regular expression ^[_a-z][a-z0-9_]*$.(İëÌùüÿÿÿÿ
+npython:S117£6"VRename this parameter "checkCache" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æ˜·¸
+npython:S100õ("QRename method "startFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Æ¼£úÿÿÿÿ
+npython:S100»R"VRename method "_editMenuSetter" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(êÜ‘÷
+ppython:S100Œ"SRename method "SHOW_VERSION" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(­”ñÿÿÿÿÿ
+gpython:S116öm"ORename this field "canRedo" to match the regular expression ^[_a-z][_a-z0-9]*$.(óæÌØ
+npython:S100ù%"VRename method "setTableHeaders" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İÑéÈ
+lpython:S100–V"TRename method "_makeLabelBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(­Ø‘É
+mpython:S100Ãn"PRename method "selectAll" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(óç€øÿÿÿÿ
+npython:S100å#"WRename method "startTabbedFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ëŞµ`
+vpython:S117½E"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(µí¬Öûÿÿÿÿ
+fpython:S116Ïr"NRename this field "Canvas" to match the regular expression ^[_a-z][_a-z0-9]*$.(¥Ô˜×
+opython:S117ÀK"RRename this parameter "myDict" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼éöŸùÿÿÿÿ
+rpython:S100Õ("URename method "stopScrollPane" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŠØÒÌøÿÿÿÿ
+jpython:S116äm"MRename this field "inUse" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÔŞÁ´şÿÿÿÿ
+rpython:S3776ìi"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(‡Š¿éÿÿÿÿÿ
+gpython:S107Ò7"JMethod "addIcon" has 8 parameters, which is greater than the 7 authorized.(°¡ùàşÿÿÿÿ
+qpython:S117C"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(ï¡¯¯
+opython:S117ük"WRename this local variable "rowPos" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î°
+npython:S100¨O"VRename method "_bindRightClick" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŠØ™Ÿ
+mpython:S100‚O"PRename method "_initMenu" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³öÀğúÿÿÿÿ
+ipython:S100Ñ&"QRename method "getGridRow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾Ş½Ÿ
+npython:S100Á7"QRename method "_widgetMap" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(”ß÷Ãøÿÿÿÿ
+mpython:S100ßQ"VRename method "getMenuCheckBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Äµa
+vpython:S117§&"YRename this parameter "actionHeading" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹şØ¥ûÿÿÿÿ
+mpython:S3776àr"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(½³ò
+npython:S100ï2"VRename method "setPropertyText" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŞÈ€À
+tpython:S117˜j"WRename this local variable "rowNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(õ€şşÿÿÿÿ
+gpython:S100ùB"ORename method "setLabel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ã«´Ù
+npython:S100±"QRename method "setSetting" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(™¡åøûÿÿÿÿ
+ypython:S100Õ"\Rename method "queuePriorityFunction" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(²Œğÿÿÿÿÿ
+lpython:S100ÕT"ORename method "yesNoBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ı½ûûÿÿÿÿ
+tpython:S117ç"WRename this parameter "frameNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(³Ø€„ıÿÿÿÿ
+qpython:S100¡F"YRename method "getTreeSelectedXML" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(²ºÕä
+mpython:S117şF"VRename this local variable "labBg" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ïĞ1
+upython:S117ŸQ"XRename this local variable "theMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ü¾ËÔúÿÿÿÿ
+rpython:S100±n"URename method "clearClipboard" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¬Ş¿øÿÿÿÿ
+opython:S100õT"RRename method "questionBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(“½ÕŠıÿÿÿÿ
+rpython:S117"URename this local variable "noBg" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿¿Ô¾øÿÿÿÿ
+ypython:S100†F"aRename method "setTreeDoubleClickFunction" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¥ºò
+spython:S100ˆK"VRename method "setEntryDefault" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ï…‹íüÿÿÿÿ
+vpython:S117Ö5"YRename this local variable "fullPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(×ÊïÓÿÿÿÿÿ
+wpython:S117ä$"ZRename this local variable "dataQuery" to match the regular expression ^[_a-z][a-z0-9_]*$.(áƒÿúÿÿÿÿÿ
+npython:S117”t"VRename this parameter "widgetName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Úâ÷í
+lpython:S100¨<"TRename method "setListItemBg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¤ÍÀˆ
+spython:S117†"VRename this parameter "frameTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ù”İşÿÿÿÿ
+ppython:S117­^"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñÌîÙ
+qpython:S117õQ"YRename this local variable "helpMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÃÃĞÓ
+hpython:S100ê"PRename method "getSticky" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(†åäß
+kpython:S100§?"SRename method "setCanvasMap" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(€óÖ±
+spython:S117"[Rename this local variable "pathString" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹±À¾
+wpython:S117Œ"ZRename this local variable "inputFont" to match the regular expression ^[_a-z][a-z0-9_]*$.(§Ûèÿÿÿÿÿ
+rpython:S117ƒ"ZRename this parameter "ignoreSettings" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ëœø×
+ppython:S100ŒS"SRename method "addStatusbar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(óû†äüÿÿÿÿ
+kpython:S100"TRename method "_repackWidget" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¢éßk
+lpython:S117¤'"URename this parameter "hideTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(È¢âS
+ypython:S117ã"\Rename this local variable "tabbedFrame" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘ÒßÃúÿÿÿÿ
+fpython:S100€"NRename method "openTab" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ø®¶õ
+gpython:S116Ï"ORename this field "ttkFlag" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ø™
+hpython:S107!"KMethod "notebook" has 8 parameters, which is greater than the 7 authorized.(‚éÅöüÿÿÿÿ
+opython:S100éL"RRename method "setPieChart" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ø›Û½ùÿÿÿÿ
+opython:S100˜2"RRename method "refreshPlot" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(øüùûÿÿÿÿ
+fpython:S100¤U"NRename method "saveBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÁŸìÚ
+kpython:S100¦L"SRename method "getAllMeters" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ç€Øì
+lpython:S116×"ORename this field "bgLabel" to match the regular expression ^[_a-z][_a-z0-9]*$.(³ «˜ûÿÿÿÿ
+ppython:S100Š"XRename method "_buildConfigFuncs" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷æÙ 
+opython:S116Ê"RRename this field "guiPadding" to match the regular expression ^[_a-z][_a-z0-9]*$.(‡”«Åşÿÿÿÿ
+npython:S100ê"QRename method "_getCanvas" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(—şÒıÿÿÿÿ
+lpython:S100º"ORename method "setOnTop" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ß•·íûÿÿÿÿ
+†python:S1845–`"mRename field "_prevFrame" to prevent any misunderstanding/clash with field "_prevframe" defined on line 12299(Æª­
+ppython:S100÷C"XRename method "textAreaChangeTag" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(²«Ù¤
+spython:S100×%"VRename method "getTableEntries" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŠÛ¼™ùÿÿÿÿ
+jpython:S100±7"RRename method "setImageMap" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÄÔˆç
+upython:S100ü)"XRename method "showAllSubWindows" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¢»ÖŸşÿÿÿÿ
+mpython:S100‘;"URename method "selectListItem" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ã¶ôá
+jpython:S100‹"MRename method "setRow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(å¡Òøÿÿÿÿ
+mpython:S100¤'"VRename method "startLabelFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(È¢âS
+mpython:S100ˆW"PRename method "_makeLink" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÕÆ€şÿÿÿÿ
+rpython:S3776¯k"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ş„ÖØıÿÿÿÿ
+vpython:S100‚&"YRename method "deleteAllTableRows" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¹è¿şÿÿÿÿ
+Mpython:S1066ù+"/Merge this if statement with the enclosing one.(ØëÃ·şÿÿÿÿ
+rpython:S100¾="URename method "addImageButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ªğ‘¿ùÿÿÿÿ
+opython:S100Š"RRename method "setTtkTheme" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(´¶ƒüÿÿÿÿ
+upython:S117™j"XRename this local variable "numCols" to match the regular expression ^[_a-z][a-z0-9_]*$.(—ØÊíûÿÿÿÿ
+wpython:S117¾a"ZRename this local variable "oldNavPos" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÈÈ¬şıÿÿÿÿ
+ipython:S100œT"LRename method "popUp" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÇşÂ´üÿÿÿÿ
+mpython:S100”:"URename method "getRadioButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ö§•Õ
+qpython:S117†"TRename this parameter "tabTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ù”İşÿÿÿÿ
+lpython:S117g"TRename this parameter "stopFunc" to match the regular expression ^[_a-z][a-z0-9_]*$.(Üæ™º
+mpython:S116ãm"PRename this field "topLevel" to match the regular expression ^[_a-z][_a-z0-9]*$.(Æçòûÿÿÿÿ
+Hpython:S1066Ø_"/Merge this if statement with the enclosing one.(úàñ£
+tpython:S117"WRename this parameter "startWindow" to match the regular expression ^[_a-z][a-z0-9_]*$.(–®Ã¡şÿÿÿÿ
+ppython:S117ÆQ"XRename this local variable "theMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(µõî×
+vpython:S117“"YRename this local variable "fastStop" to match the regular expression ^[_a-z][a-z0-9_]*$.(­¡Õ§ûÿÿÿÿ
+rpython:S117Æ1"URename this local variable "gMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôæ‰ûÿÿÿÿ
+rpython:S3776e"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(÷Í¥öøÿÿÿÿ
+zpython:S100ò."bRename method "_disableOptionBoxSeparators" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÈïÉÌ
+qpython:S117ÒL"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(½£¡É
+jpython:S100¾N"RRename method "_minToolbar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İ¾ˆ
+tpython:S116»	"WRename this field "validateSpinBox" to match the regular expression ^[_a-z][_a-z0-9]*$.(½Ö¿”øÿÿÿÿ
+upython:S117%"]Rename this local variable "actionButton" to match the regular expression ^[_a-z][a-z0-9_]*$.(§å¹é
+npython:S100ÜD"VRename method "setTextAreaFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ø×ä²
+ppython:S117ñ]"SRename this parameter "newName" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹Øµ¨ıÿÿÿÿ
+npython:S100Ú:"QRename method "addListBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(íÊø†şÿÿÿÿ
+vpython:S117µF"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(®‰Ò½ûÿÿÿÿ
+qpython:S100H"TRename method "_checkDirName" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ì´îÅùÿÿÿÿ
+upython:S117»;"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(ü¦ª¢ùÿÿÿÿ
+spython:S117’("VRename this parameter "pageNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸Ÿëµÿÿÿÿÿ
+mpython:S100öE"PRename method "setTreeFg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÎäŸ³ûÿÿÿÿ
+rpython:S117"ZRename this local variable "verString" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò¼Ü—
+vpython:S117ˆ%"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(§™«‰ûÿÿÿÿ
+qpython:S117½:"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(·•ÁØ
+ppython:S117U"SRename this parameter "dirName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ¡ùÌùÿÿÿÿ
+qpython:S117ı"YRename this local variable "progName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ê€´Ò
+upython:S117†&"XRename this parameter "columnNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(†±Èˆûÿÿÿÿ
+lpython:S116À	"TRename this field "splashConfig" to match the regular expression ^[_a-z][_a-z0-9]*$.(¶£ÓÁ
+opython:S116""RRename this field "inactiveBg" to match the regular expression ^[_a-z][_a-z0-9]*$.(”Çéßøÿÿÿÿ
+mpython:S116´Y"PRename this field "fgColour" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÁÉ°³ûÿÿÿÿ
+ppython:S100œ"SRename method "increaseFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ö‰Êùÿÿÿÿ
+tpython:S117Ü7"WRename this local variable "imgObj" to match the regular expression ^[_a-z][a-z0-9_]*$.(ô™Ü–ûÿÿÿÿ
+npython:S100â"QRename method "SPLIT_GEOM" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ê¦Å³ùÿÿÿÿ
+bpython:S107¤U"JMethod "saveBox" has 8 parameters, which is greater than the 7 authorized.(ÁŸìÚ
+npython:S100’O"QRename method "createMenu" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ğß­¸úÿÿÿÿ
+rpython:S100ƒ."ZRename method "_buildTickOptionBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.( ü
+xpython:S117šo"[Rename this parameter "defaultLocation" to match the regular expression ^[_a-z][a-z0-9_]*$.(·àÜÎıÿÿÿÿ
+^python:S101i"HRename class "gui" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ö´K
+qpython:S117%"YRename this local variable "showMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.( ÖÑà
+spython:S100¬5"[Rename method "_configAnimatedImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(í¢ñ‹
+opython:S117›j"XRename this local variable "cellNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ãø¥x
+mpython:S117ŒR"URename this parameter "inMenuBar" to match the regular expression ^[_a-z][a-z0-9_]*$.(±ş“’
+gpython:S116Î"PRename this field "logLevel" to match the regular expression ^[_a-z][_a-z0-9]*$.(şêW
+npython:S100éR"VRename method "removeStatusbar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ô»Ü
+lpython:S100´7"TRename method "_setWidgetMap" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¬®‡–
+‚python:S1871£"dEither merge this branch with the identical one on line "2337" or change one of the implementations.(Å¼øşÿÿÿÿ
+xpython:S100­V"[Rename method "makeListBoxContainer" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒ»¹Ÿÿÿÿÿÿ
+qpython:S117Ï?"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(İ¸îı
+lpython:S117Ôq"TRename this parameter "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(»Í°½
+@python:S1481–"'Remove the unused local variable "msg".(£”€ƒ
+kpython:S100‹u"TRename method "getIgnoreCase" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(—À´
+tpython:S100èS"WRename method "_getFormatStatus" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŠŸ¼úÿÿÿÿ
+mpython:S116ù"PRename this field "ttkStyle" to match the regular expression ^[_a-z][_a-z0-9]*$.(œŸ¬òùÿÿÿÿ
+npython:S117”["VRename this parameter "fillColour" to match the regular expression ^[_a-z][a-z0-9_]*$.(š±Ş
+ppython:S100ú7"SRename method "setImageSize" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(áÖ’©ùÿÿÿÿ
+kpython:S100«:"SRename method "setRadioTick" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾–õÄ
+vpython:S100éQ"YRename method "addMenuPreferences" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÚÊûÆıÿÿÿÿ
+ypython:S117ã"\Rename this local variable "parseString" to match the regular expression ^[_a-z][a-z0-9_]*$.(é•ƒ†ùÿÿÿÿ
+tpython:S100º&"WRename method "selectGridColumn" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ß ¦şÿÿÿÿÿ
+xpython:S100ú#"`Rename method "setTabbedFrameDisabledTab" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ğ“Ó
+upython:S117¸`"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤„–úıÿÿÿÿ
+qpython:S117"TRename this parameter "showIcon" to match the regular expression ^[_a-z][a-z0-9_]*$.(–®Ã¡şÿÿÿÿ
+gpython:S100Í&"ORename method "sortGrid" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(›ä Ø
+tpython:S100Ú%"\Rename method "getTableSelectedCells" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ò‡ÇÔ
+mpython:S117£O"URename this parameter "showInBar" to match the regular expression ^[_a-z][a-z0-9_]*$.(Å¡çÙ
+vpython:S117±Q"YRename this local variable "numMenus" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ®ë¬úÿÿÿÿ
+ipython:S100ñ"QRename method "setStretch" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(œªÇ–
+xpython:S100	"[Rename method "_receiveExternalDrop" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Øãîøşÿÿÿÿ
+jpython:S100Ä;"RRename method "addListItem" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ºÎ—±
+npython:S100ô"QRename method "getStretch" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ø€˜…ıÿÿÿÿ
+npython:S107Á"QMethod "startContainer" has 9 parameters, which is greater than the 7 authorized.(º¹˜ıÿÿÿÿ
+kpython:S100°<"SRename method "clearListBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¯‡è
+jpython:S100ÅN"RRename method "_maxToolbar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ùÖ§
+mpython:S116úm"PRename this field "canPaste" to match the regular expression ^[_a-z][_a-z0-9]*$.(Î§üÿÿÿÿ
+ipython:S116£V"QRename this field "theButton" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÊµÔ¶
+fpython:S100á"NRename method "_useTtk" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(—™êï
+tpython:S100Ì1"WRename method "getGoogleMapZoom" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(œµÎúÿÿÿÿ
+hpython:S100Ë="PRename method "setButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ü‰ïÁ
+mpython:S100»S"URename method "setStatusbarBg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(™õÂ
+npython:S100õ8"QRename method "_soundWrap" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÅÇÄ‡ıÿÿÿÿ
+xpython:S117Š"[Rename this local variable "buttonFont" to match the regular expression ^[_a-z][a-z0-9_]*$.(’Óü‹ÿÿÿÿÿ
+qpython:S117ë?"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(È¡ŒÁ
+upython:S117‚Y"XRename this local variable "curItem" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÅãÛÕşÿÿÿÿ
+rpython:S117´1"URename this local variable "gMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôæ‰ûÿÿÿÿ
+qpython:S100Ó("TRename method "stopContainer" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(…ïİŸûÿÿÿÿ
+upython:S100™A"XRename method "getAllDatePickers" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ÿˆš‚øÿÿÿÿ
+gpython:S116õm"ORename this field "canUndo" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÕŠ¸Ç
+ppython:S117ÅM"XRename this local variable "imgFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(µ¸¹¹
+qpython:S117ó"TRename this parameter "findRoot" to match the regular expression ^[_a-z][a-z0-9_]*$.(—ÚûÁúÿÿÿÿ
+ypython:S100ú"\Rename method "_validateFunctionList" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Õ‰Á§ûÿÿÿÿ
+jpython:S100×A"SRename method "_resetAccess" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ğöŒb
+rpython:S100ÈJ"ZRename method "_updateEntryDefault" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‹×åà
+ppython:S100á7"SRename method "_addImageObj" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ò•Íùıÿÿÿÿ
+jpython:S100’P"RRename method "addMenuList" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°“Ä´
+jpython:S100ŒR"RRename method "addMenuEdit" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(±ş“’
+upython:S117§:"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚íÁ…ùÿÿÿÿ
+npython:S100—&"VRename method "replaceTableRow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Èì‹•
+lpython:S100…7"ORename method "setImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(’Ğ•üÿÿÿÿ
+ppython:S117°K"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹Ü¤ï
+ppython:S117M"XRename this local variable "imgFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(—á¡æ
+opython:S117ñk"WRename this local variable "rowPos" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î°
+…python:S1845ÓX"gRename field "listbox" to prevent any misunderstanding/clash with method "listBox" defined on line 7483(º‚ïûúÿÿÿÿ
+|python:S1871Å"dEither merge this branch with the identical one on line "3767" or change one of the implementations.(ºÙ‡m
+opython:S100‘"WRename method "_focusLastWindow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(×ˆ¥
+npython:S100è3"VRename method "addSpinBoxRange" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾¸‰Ê
+npython:S100Ä("QRename method "scrollPane" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(£½õøşÿÿÿÿ
+~python:S117Ğ"aRename this local variable "selectedTtkTheme" to match the regular expression ^[_a-z][a-z0-9_]*$.(•ˆüÈûÿÿÿÿ
+rpython:S117·i"URename this parameter "rowNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(ë¨İøÿÿÿÿ
+rpython:S117’O"URename this parameter "showInBar" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğß­¸úÿÿÿÿ
+jpython:S107¦&"MMethod "addDbGrid" has 14 parameters, which is greater than the 7 authorized.(¹ÈÕ‘ùÿÿÿÿ
+kpython:S100ò"SRename method "_getTopLevel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÚÅÑ©
+upython:S100<"XRename method "_getListPositions" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‡«¹íøÿÿÿÿ
+ppython:S117Ğ,"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÊÔç
+mpython:S100İT"PRename method "stringBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(û«Şùÿÿÿÿ
+tpython:S100Å&"WRename method "deleteGridColumn" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(´”¹›ıÿÿÿÿ
+opython:S100…"RRename method "getTtkTheme" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ºØïƒıÿÿÿÿ
+qpython:S100"TRename method "_bringToFront" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾ı³Õıÿÿÿÿ
+ppython:S117½/"XRename this local variable "maxSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ãş†„
+rpython:S100¹"ZRename method "configureAllWidgets" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(áõ½Š
+fpython:S117Êr"NRename this parameter "XY" to match the regular expression ^[_a-z][a-z0-9_]*$.(«œêÁ
+tpython:S100°"WRename method "_removeContainer" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(×Í½¤øÿÿÿÿ
+7python:S125©"Remove this commented out code.(–Âø¥
+lpython:S100Æ"TRename method "queueFunction" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÊŸÖ
+opython:S117"RRename this parameter "useTtk" to match the regular expression ^[_a-z][a-z0-9_]*$.(–®Ã¡şÿÿÿÿ
+lpython:S117€"TRename this parameter "tabTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø®¶õ
+spython:S117ƒH"VRename this parameter "selectFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(±ûßüÿÿÿÿ
+npython:S100åT"QRename method "integerBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Î¤´üÿÿÿÿ
+npython:S100ïA"QRename method "showAccess" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(²×©®ıÿÿÿÿ
+wpython:S100ÙG"ZRename method "addSecretLabelEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ºªåÆûÿÿÿÿ
+spython:S117R"[Rename this local variable "windowMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(ï—£
+npython:S100˜"WRename method "setStartFunction" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ö õ
+lpython:S100Ó&"ORename method "confGrid" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ıÂËŠÿÿÿÿÿ
+tpython:S117Í7"WRename this local variable "imgObj" to match the regular expression ^[_a-z][a-z0-9_]*$.(£»’„şÿÿÿÿ
+ypython:S117àh"\Rename this local variable "updateCells" to match the regular expression ^[_a-z][a-z0-9_]*$.(íêá şÿÿÿÿ
+qpython:S117ïK"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÖÍëÎ
+mpython:S100»+"URename method "_checkBoxMaker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(á›æ¿
+ppython:S117ÉQ"SRename this parameter "newName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ïö¯÷ûÿÿÿÿ
+lpython:S100«&"TRename method "replaceDbGrid" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ì˜³ã
+qpython:S117›h"YRename this parameter "queueFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(š¯Ô†
+mpython:S117¦"URename this parameter "eventType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôòë¾
+spython:S3776ï	"URefactor this function to reduce its Cognitive Complexity from 268 to the 15 allowed.(äÛÀçşÿÿÿÿ
+gpython:S100Œ"ORename method "openPane" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(›‘“
+upython:S100èG"]Rename method "addLabelDirectoryEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¥‚ÑÁ
+zpython:S100úW"]Rename method "_makeAutoCompleteEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(€±¦½ûÿÿÿÿ
+spython:S100…A"VRename method "clearDatePicker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(şõ¥òùÿÿÿÿ
+kpython:S117×="SRename this parameter "imgFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(ì¢æ
+mpython:S116›""PRename this field "activeBg" to match the regular expression ^[_a-z][_a-z0-9]*$.(ËëÒùÿÿÿÿ
+{python:S117á"^Rename this local variable "containerData" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ÙÌúÿÿÿÿ
+lpython:S100Ø1"TRename method "saveGoogleMap" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(£ƒøû
+npython:S100§%"QRename method "addDbTable" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(äœ´Ğøÿÿÿÿ
+jpython:S100‰"RRename method "getLocation" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÒÄ•
+jpython:S117Ì"RRename this parameter "cTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í³ï±
+ppython:S117İP"SRename this parameter "subMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(ËÜàûÿÿÿÿ
+|python:S100›N"_Rename method "setToolbarButtonDisabled" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ô¹õùÿÿÿÿ
+opython:S100ÆR"RRename method "appJarAbout" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ùë±Èùÿÿÿÿ
+ppython:S116Ä"SRename this field "_buttonFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(»î£íşÿÿÿÿ
+ppython:S100ô%"XRename method "deleteTableColumn" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(®¼‹†
+mpython:S3776M"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(‰¯©–
+rpython:S3776×k"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(£õƒÿÿÿÿÿ
+rpython:S117«1"URename this local variable "gMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôæ‰ûÿÿÿÿ
+hpython:S116şt"PRename this field "funcList" to match the regular expression ^[_a-z][_a-z0-9]*$.(íñæÆ
+fpython:S100±"IRename method "go" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¾İ‰¾ùÿÿÿÿ
+mpython:S100ÉU"PRename method "colourBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ğò‚«ùÿÿÿÿ
+spython:S117ËX"[Rename this local variable "shownWords" to match the regular expression ^[_a-z][a-z0-9_]*$.(­©Ï•
+gpython:S100ıB"ORename method "getLabel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ù¶æá
+ppython:S100¦J"XRename method "setEntryUpperCase" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¥§İ
+kpython:S100ö1"NRename method "addPlot" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(îƒÓÜüÿÿÿÿ
+ypython:S100›5"\Rename method "_preloadAnimatedImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ñ¹İ“ıÿÿÿÿ
+mpython:S100ü"PRename method "setExpand" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‡Ô—ùÿÿÿÿ
+rpython:S100ñ"URename method "hideWidgetType" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ç”×òûÿÿÿÿ
+vpython:S100§"YRename method "decreaseButtonFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ú‡íšûÿÿÿÿ
+rpython:S100:"URename method "setRadioButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ªä¾ùÿÿÿÿ
+rpython:S117 "ZRename this local variable "noteTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(©…§ô
+upython:S117Â&"XRename this parameter "columnNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(ş°È³ÿÿÿÿÿ
+upython:S117ˆl"XRename this parameter "columnNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(²ÈÿÛıÿÿÿÿ
+upython:S117O"XRename this local variable "sysMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(æ»à¨øÿÿÿÿ
+rpython:S3776úW"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(€±¦½ûÿÿÿÿ
+upython:S117ûk"XRename this local variable "dataLen" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú¯Öùÿÿÿÿ
+npython:S100ß&"QRename method "panedFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(äŒÜ¬ùÿÿÿÿ
+rpython:S117Ól"ZRename this local variable "cellCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉÊ±
+ipython:S107·-"QMethod "addDbOptionBox" has 8 parameters, which is greater than the 7 authorized.(‚íƒ
+qpython:S100D"YRename method "textAreaTagPattern" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¦Ú¡
+npython:S100Ï&"VRename method "getGridRowCount" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°À¹
+jpython:S117À%"RRename this parameter "addRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(©­–¨
+hpython:S100ºn"PRename method "clearText" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(æ¨—Û
+upython:S100é9"XRename method "_radioButtonMaker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Õêåïüÿÿÿÿ
+tpython:S100Ş@"\Rename method "_updateDatePickerDays" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚½¢à
+vpython:S117ü!"YRename this parameter "changeOnFocus" to match the regular expression ^[_a-z][a-z0-9_]*$.(©¥è¶ùÿÿÿÿ
+qpython:S117¨*"YRename this local variable "widgType" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨ê¿Š
+ipython:S100"LRename method "setBg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Óİí“ıÿÿÿÿ
+opython:S117µX"WRename this parameter "acListEntry" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿ°æ›
+upython:S100Î"XRename method "getWidgetProperty" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ñçí‚øÿÿÿÿ
+7python:S125Š:"Remove this commented out code.(ßòÊ‰
+lpython:S100Ô"TRename method "getButtonFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Š¤´
+kpython:S100Ê"SRename method "_setLogLevel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‡Í­Œ
+ipython:S107»+"QMethod "_checkBoxMaker" has 9 parameters, which is greater than the 7 authorized.(á›æ¿
+}python:S100¢I"`Rename method "setEntryWaitingValidation" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Š«şıÿÿÿÿ
+ppython:S117™3"XRename this local variable "spinBox" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹‡Â·
+spython:S100è#"VRename method "stopTabbedFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¶ÈÂüÿÿÿÿ
+ppython:S117¥#"SRename this parameter "newName" to match the regular expression ^[_a-z][a-z0-9_]*$.(™±«¡şÿÿÿÿ
+ppython:S100Ü"SRename method "setInPadding" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(›¯ ÿÿÿÿÿ
+wpython:S100‚0"ZRename method "clearAllOptionBoxes" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒ·ÊÇşÿÿÿÿ
+upython:S100Ÿ1"XRename method "setGoogleMapProxy" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¿Ç©™ÿÿÿÿÿ
+npython:S116¶A"VRename this field "accessOrigFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ü¢õõ
+mpython:S100›9"PRename method "loopSound" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(½§÷…üÿÿÿÿ
+spython:S117Át"VRename this parameter "widgetType" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸µÊíøÿÿÿÿ
+lpython:S100ˆ+"TRename method "_packLabelBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(£íà
+vpython:S117¨%"YRename this parameter "actionHeading" to match the regular expression ^[_a-z][a-z0-9_]*$.(œœéşşÿÿÿÿ
+fpython:S100°"NRename method "bindKey" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(«ÑòÍ
+lpython:S117¤U"TRename this parameter "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÁŸìÚ
+upython:S117ã2"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(»¢ƒğÿÿÿÿÿ
+kpython:S117¤U"SRename this parameter "fileExt" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÁŸìÚ
+jpython:S116Úr"MRename this field "Title" to match the regular expression ^[_a-z][_a-z0-9]*$.(Û–«”şÿÿÿÿ
+qpython:S107é9"TMethod "_radioButtonMaker" has 8 parameters, which is greater than the 7 authorized.(Õêåïüÿÿÿÿ
+upython:S100ª"XRename method "increaseLabelFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(î¯ã“ûÿÿÿÿ
+epython:S101‚["MRename class "ajOption" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Ñšµ¬
+rpython:S3776İ<"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(šÖ·ïúÿÿÿÿ
+mpython:S100ÑG"URename method "addSecretEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(†¸Æã
+fpython:S100¾$"NRename method "stopTab" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ìö’
+jpython:S107ß&"MMethod "panedFrame" has 8 parameters, which is greater than the 7 authorized.(äŒÜ¬ùÿÿÿÿ
+ppython:S100ÀK"SRename method "_lookupValue" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¼éöŸùÿÿÿÿ
+spython:S100¬Y"VRename method "_makeAjTreeNode" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(á«åûÿÿÿÿ
+qpython:S100şE"YRename method "setTreeHighlightFg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(É¬ø
+ppython:S117ÎQ"XRename this local variable "theMenu" to match the regular expression ^[_a-z][a-z0-9_]*$.(µõî×
+hpython:S107Ç2"PMethod "addProperties" has 8 parameters, which is greater than the 7 authorized.(â¸İš
+kpython:S100‘0"SRename method "setOptionBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(”‰à½
+mpython:S3776³"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(Š®–Ø
+ppython:S117âj"XRename this parameter "columnNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(îÌü¼
+kpython:S100Ë"SRename method "showTitleBar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åø©
+spython:S100‰;"VRename method "setListBoxMulti" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ñıéòøÿÿÿÿ
+hpython:S116œ"PRename this field "fastStop" to match the regular expression ^[_a-z][_a-z0-9]*$.(¶Ã‰¿
+qpython:S117ñL"TRename this parameter "findIcon" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÖÛÑ›üÿÿÿÿ
+ƒpython:S1871’e"eEither merge this branch with the identical one on line "12942" or change one of the implementations.(îŒ±ÿÿÿÿÿ
+npython:S100Ù/"VRename method "deleteOptionBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ú¨ê“
+tpython:S100Š"WRename method "_focusNextWindow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ø”Ğüÿÿÿÿ
+mpython:S100 ?"PRename method "getCanvas" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÇºÉŸüÿÿÿÿ
+lpython:S100ã8"TRename method "resizeBgImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ïšâ½
+lpython:S100Ñ"TRename method "setButtonFont" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Šè
+rpython:S117§1"URename this local variable "gMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôæ‰ûÿÿÿÿ
+wpython:S117û"ZRename this local variable "callFrame" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷²Ñûÿÿÿÿ
+npython:S100ş1"QRename method "addPlotFig" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ö‡áùÿÿÿÿ
+gpython:S100Ğ,"ORename method "setScale" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÊÔç
+ipython:S117‰<"RRename this parameter "newVal" to match the regular expression ^[_a-z][a-z0-9_]*$.(ó¶İD
+mpython:S100˜9"PRename method "stopSound" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İµ™™üÿÿÿÿ
+spython:S100èC"VRename method "getAllTextAreas" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(À–äìÿÿÿÿÿ
+fpython:S100•"ORename method "getFonts" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ó¿ó
+vpython:S117ã"YRename this local variable "TreeNode" to match the regular expression ^[_a-z][a-z0-9_]*$.(é•ƒ†ùÿÿÿÿ
+jpython:S100À"RRename method "setLogLevel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(áƒÛ‡
+gpython:S100Æ,"ORename method "getScale" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(…¶‡¶
+lpython:S116óm"ORename this field "canCopy" to match the regular expression ^[_a-z][_a-z0-9]*$.(¿ëÜúÿÿÿÿ
+ipython:S100»"QRename method "_checkMode" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Âºäì
+lpython:S100¥"ORename method "GET_DIMS" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ãòõøÿÿÿÿ
+npython:S107²="QMethod "addNamedButton" has 8 parameters, which is greater than the 7 authorized.(Äçéêüÿÿÿÿ
+mpython:S100°"PRename method "afterIdle" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(”½³ÿÿÿÿÿ
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Óİí“ıÿÿÿÿ
+ppython:S117 i"SRename this parameter "rowData" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÚşÎûÿÿÿÿ
+mpython:S100÷U"URename method "_makeParentBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(óÌ¢
+opython:S100º"RRename method "_fontHelper" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÌÇËèÿÿÿÿÿ
+vpython:S100ú,"YRename method "setScaleHorizontal" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÖĞ¸˜ùÿÿÿÿ
+rpython:S100”7"URename method "_populateImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Éû¦øÿÿÿÿ
+npython:S117¤"VRename this local variable "Queue" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î¯
+rpython:S3776±"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(¾İ‰¾ùÿÿÿÿ
+spython:S117ü="[Rename this local variable "singleFunc" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÀšİ
+vpython:S117ÍZ"YRename this local variable "itemList" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëÈû²üÿÿÿÿ
+opython:S117¢2"WRename this local variable "pTitle" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìÏ‘ì
+rpython:S100İ,"URename method "setScaleLength" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.( ¤Ÿÿÿÿÿÿ
+jpython:S100À+"RRename method "addCheckBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ãÈÓ³
+ipython:S117òY"QRename this parameter "bgCol" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘·×Í
+npython:S100Ö;"QRename method "getListBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ùëÄºùÿÿÿÿ
+qpython:S100ì'"YRename method "setPagedWindowPage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¨²Éß
+tpython:S117p"WRename this parameter "proxyString" to match the regular expression ^[_a-z][a-z0-9_]*$.(òıİÄûÿÿÿÿ
+xpython:S117û"[Rename this local variable "guiPadding" to match the regular expression ^[_a-z][a-z0-9_]*$.(œË‡üÿÿÿÿ
+npython:S100Á*"QRename method "setVisible" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸«‹Äøÿÿÿÿ
+npython:S100ÕI"VRename method "removeAutoEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ïèÕ
+zpython:S100¸D"]Rename method "textAreaToggleTagRange" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ëà›íşÿÿÿÿ
+lpython:S100–L"TRename method "addSplitMeter" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Â¹à
+vpython:S100˜:"YRename method "getAllRadioButtons" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(§‘¶şÿÿÿÿ
+lpython:S100Å="TRename method "addIconButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(–—Ğê
+gpython:S100‘"ORename method "_loadURL" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‘û¬Ù
+jpython:S100Ÿ"RRename method "_rightClick" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(€½©
+qpython:S100‡$"YRename method "showTabbedFrameTab" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İÙğÂ
+upython:S100ì$"XRename method "disableTableEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(£¬¯Ÿşÿÿÿÿ
+npython:S116µY"QRename this field "bgHColour" to match the regular expression ^[_a-z][_a-z0-9]*$.(åĞ›‰şÿÿÿÿ
+lpython:S100Ö:"TRename method "_listBoxMaker" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(û†³İ
+vpython:S100±'"YRename method "setLabelFrameTitle" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚³›ßúÿÿÿÿ
+wpython:S100("_Rename method "getPagedWindowPageNumber" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‹Ó×”
+opython:S117¨%"RRename this parameter "addRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(œœéşşÿÿÿÿ
+vpython:S117•"YRename this local variable "logLevel" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰·çÃùÿÿÿÿ
+tpython:S100Â."\Rename method "addLabelTickOptionBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ìë­¦
+mpython:S100ÁQ"VRename method "disableMenuItem" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(™Ó¶X
+ipython:S100Â>"QRename method "addWebLink" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(×“ıà
+fpython:S100Ô"NRename method "setSize" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ßÆéş
+ppython:S100û6"SRename method "setImageData" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÚÂî¬ıÿÿÿÿ
+hpython:S107Ö:"PMethod "_listBoxMaker" has 8 parameters, which is greater than the 7 authorized.(û†³İ
+rpython:S100’H"URename method "_checkFileName" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(À÷¥æúÿÿÿÿ
+cpython:S107¾B"KMethod "addLabel" has 8 parameters, which is greater than the 7 authorized.(Óˆªİ
+npython:S117Á"QRename this parameter "fType" to match the regular expression ^[_a-z][a-z0-9_]*$.(º¹˜ıÿÿÿÿ
+tpython:S100î8"WRename method "setSoundLocation" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷¬æŠÿÿÿÿÿ
+upython:S117Ğ-"XRename this local variable "maxSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢Æº–şÿÿÿÿ
+ypython:S100³D"\Rename method "textAreaUntagSelected" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(©Ùêšúÿÿÿÿ
+rpython:S100("ZRename method "setPagedWindowTitle" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÀÎ€¡
+vpython:S100ö@"YRename method "setDatePickerRange" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ìèàõüÿÿÿÿ
+jpython:S100Õ3"RRename method "_addSpinBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÏÎı
+zpython:S117‘,"]Rename this local variable "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(à¤ó¼ÿÿÿÿÿ
+kpython:S117Êj"SRename this parameter "cellNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(æÿÈ‚
+upython:S116Ôr"XRename this field "OffsetCalculated" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÇîÛÇÿÿÿÿÿ
+jpython:S116İr"RRename this field "dropTarget" to match the regular expression ^[_a-z][_a-z0-9]*$.(¸’İÿ
+ppython:S100¹U"SRename method "directoryBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ùİ‡Ÿúÿÿÿÿ
+fpython:S107ñ="NMethod "_addButtons" has 8 parameters, which is greater than the 7 authorized.(Ğõµ
+Epython:S1481£e"'Remove the unused local variable "alt".(…ŸÀÒıÿÿÿÿ
+<python:S125±c"Remove this commented out code.(„¦ˆåûÿÿÿÿ
+Gpython:S14813")Remove the unused local variable "props".(÷ ‚›ùÿÿÿÿ
+rpython:S117–t"ZRename this local variable "widgGroup" to match the regular expression ^[_a-z][a-z0-9_]*$.(“ÕÅ¸
+rpython:S3776¬Y"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(á«åûÿÿÿÿ
+ppython:S107êI"XMethod "_validateNumericEntry" has 9 parameters, which is greater than the 7 authorized.(ƒïÖ‚
+lpython:S100”N"TRename method "removeToolbar" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(à¾ƒ
+rpython:S100ï%"URename method "addTableColumn" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¬ÅÖëıÿÿÿÿ
+opython:S117Éq"XRename this local variable "rawData" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÅÔõ
+ppython:S117é!"SRename this parameter "newName" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾éöòüÿÿÿÿ
+dpython:S107Õ\"LMethod "__init__" has 13 parameters, which is greater than the 7 authorized.(Õ’…¶
+hpython:S107ö1"KMethod "addPlot" has 10 parameters, which is greater than the 7 authorized.(îƒÓÜüÿÿÿÿ
+qpython:S100ª1"ZRename method "setGoogleMapTerrain" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³£ƒ#
+ipython:S100º"QRename method "getLogFile" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Û¯ß‘
+opython:S100ã+"WRename method "getAllCheckBoxes" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Èìƒ•
+vpython:S100‰'"^Rename method "startPanedFrameVertical" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ö‰ìÒ
+opython:S100àD"RRename method "setTextArea" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ñóƒïûÿÿÿÿ
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 86 to the 15 allowed.(Áòä·
+jpython:S100òQ"RRename method "addMenuHelp" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(èŸËù
+mpython:S100œ("PRename method "startPage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ô×§şÿÿÿÿ
+kpython:S117¼"SRename this parameter "afterId" to match the regular expression ^[_a-z][a-z0-9_]*$.(±ÍÕ°
+upython:S117µ6"XRename this local variable "imgType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÃÔŞÁıÿÿÿÿ
+upython:S117¾`"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥„¡ìıÿÿÿÿ
+rpython:S100ğ;"ZRename method "removeListItemAtPos" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(”ó¾Ñ
+kpython:S117$"SRename this parameter "newText" to match the regular expression ^[_a-z][a-z0-9_]*$.(™ŸÜû
+opython:S117´"WRename this local variable "Thread" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŒÉ«Ë
+opython:S117âk"WRename this local variable "rowPos" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î°
+kpython:S117Ò'"SRename this parameter "newText" to match the regular expression ^[_a-z][a-z0-9_]*$.(Û„˜°
+qpython:S117ƒY"YRename this local variable "numItems" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ş…¡Ï
+mpython:S116œX"PRename this field "listFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(ú»Ğ«ùÿÿÿÿ
+mpython:S100ª?"VRename method "addCanvasCircle" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ÿ\
+lpython:S107Ø7"OMethod "addImageData" has 9 parameters, which is greater than the 7 authorized.(‰ü…åÿÿÿÿÿ
+opython:S100‹@"WRename method "setMicroBitImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÖÂŞ
+tpython:S117Ó"]Rename this local variable "ParsingError" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜¾ìz
+opython:S117¦"RRename this parameter "eTrace" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æº½µûÿÿÿÿ
+rpython:S117æ`"ZRename this local variable "titleFont" to match the regular expression ^[_a-z][a-z0-9_]*$.(…Ë¦‰
+wpython:S100›&"ZRename method "replaceAllTableRows" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(â•ôéşÿÿÿÿ
+opython:S116ªV"RRename this field "theWidgets" to match the regular expression ^[_a-z][_a-z0-9]*$.(Îú…Œşÿÿÿÿ
+spython:S100í"VRename method "_getContainerBg" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ª§’Óúÿÿÿÿ
+opython:S117U"RRename this parameter "asFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ¡ùÌùÿÿÿÿ
+lpython:S100¾"ORename method "getOnTop" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ø¤²½üÿÿÿÿ
+rpython:S3776¯O"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(É³±ÿÿÿÿÿÿ
+qpython:S117¦K"TRename this parameter "setFocus" to match the regular expression ^[_a-z][a-z0-9_]*$.(£¬½Êúÿÿÿÿ
+qpython:S117Š,"YRename this local variable "widgKind" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï†¨
+xpython:S100ş."[Rename method "_configOptionBoxList" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ş“Èùÿÿÿÿ
+npython:S116Ï"QRename this field "inputFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(ã®Â±ûÿÿÿÿ
+tpython:S117•6"WRename this local variable "imgObj" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿåß™øÿÿÿÿ
+ipython:S100ıT"LRename method "okBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(é—•áøÿÿÿÿ
+kpython:S100²"TRename method "getFullscreen" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(€¼ë
+opython:S100£A"RRename method "_makeAccess" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÉÌê¼ûÿÿÿÿ
+‚python:S1871ı"dEither merge this branch with the identical one on line "3194" or change one of the implementations.(„áúúÿÿÿÿ
+lpython:S3776ü"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÚÎŸ8
+fpython:S100¡&"NRename method "addGrid" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ì½¨õ
+rpython:S3776ñ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ç”×òûÿÿÿÿ
+mpython:S100ç"PRename method "setSticky" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°¸µóÿÿÿÿÿ
+hpython:S100…L"PRename method "_addMeter" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¡˜û
+hpython:S100™8"PRename method "growImage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Å®³×
+opython:S100Š&"WRename method "getTableRowCount" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õğ¨İ
+rpython:S117Ât"ZRename this local variable "widgGroup" to match the regular expression ^[_a-z][a-z0-9_]*$.(“ÕÅ¸
+vpython:S117Ÿl"YRename this local variable "colCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŒÉøÿÿÿÿ
+lpython:S100c"TRename method "_beenModified" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°…ÇÀ
+lpython:S100Öt"TRename method "destroyWidget" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(îµŠ
+tpython:S116º	"WRename this field "validateNumeric" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÖË‚úÿÿÿÿ
+|python:S1871Ã6"dEither merge this branch with the identical one on line "6977" or change one of the implementations.(‹­‡P
+kpython:S100àP"NRename method "addMenu" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸—Ë³ıÿÿÿÿ
+qpython:S117Ë"ZRename this parameter "ignoreSettings" to match the regular expression ^[_a-z][a-z0-9_]*$.(êÁ­
+npython:S100ô"VRename method "openToggleFrame" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(®Å¿
+opython:S100¶"RRename method "_loadRandom" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(®ïÔ²ÿÿÿÿÿ
+qpython:S100‘@"TRename method "clearMicroBit" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÒÖ’ñÿÿÿÿÿ
+tpython:S100êI"\Rename method "_validateNumericEntry" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒïÖ‚
+tpython:S117±"WRename this parameter "startWindow" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾İ‰¾ùÿÿÿÿ
+ppython:S117¾="SRename this parameter "imgFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(ªğ‘¿ùÿÿÿÿ
+qpython:S100¸4"TRename method "changeSpinBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‡‘µ“øÿÿÿÿ
+spython:S117/"[Rename this local variable "newOptions" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëÇ¶Œ
+jpython:S117òY"RRename this parameter "bgHCol" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘·×Í
+ipython:S117à"QRename this parameter "cType" to match the regular expression ^[_a-z][a-z0-9_]*$.(›á“„
+opython:S100õS"RRename method "_addTooltip" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ûƒúÜùÿÿÿÿ
+ipython:S100"QRename method "_macReveal" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒşá
+opython:S100ã2"RRename method "setProperty" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(»¢ƒğÿÿÿÿÿ
+opython:S100£?"RRename method "clearCanvas" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(èîîûÿÿÿÿ
+spython:S117ò9"VRename this local variable "newRb" to match the regular expression ^[_a-z][a-z0-9_]*$.(Å÷»èşÿÿÿÿ
+mpython:S100Š"URename method "showWidgetType" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(´úªŒ
+jpython:S100&"RRename method "getTableRow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³ ïš
+python:S100¦"bRename method "_registerInternalDragSource" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ø—Á÷ÿÿÿÿÿ
+upython:S117öO"XRename this local variable "varName" to match the regular expression ^[_a-z][a-z0-9_]*$.(«ğ Âûÿÿÿÿ
+{python:S100•D"^Rename method "textAreaToggleFontRange" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ï¤»šşÿÿÿÿ
+kpython:S100€"SRename method "GET_PLATFORM" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‚ğÛ™
+tpython:S100¶5"WRename method "_checkIsAnimated" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ñã¬Îşÿÿÿÿ
+ppython:S100º"SRename method "saveSettings" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(éÆåïıÿÿÿÿ
+qpython:S100ºB"YRename method "addSelectableLabel" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Üíä€
+kpython:S116Ê"SRename this field "_accessFont" to match the regular expression ^[_a-z][_a-z0-9]*$.(Á«åË
+upython:S117í5"XRename this local variable "absPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÆÉ«ûüÿÿÿÿ
+mpython:S100¦&"PRename method "addDbGrid" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¹ÈÕ‘ùÿÿÿÿ
+tpython:S100'"\Rename method "setPanedFrameVertical" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(è§­à
+rpython:S100í"URename method "_importSqlite3" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Û©úöıÿÿÿÿ
+kpython:S116òm"NRename this field "canCut" to match the regular expression ^[_a-z][_a-z0-9]*$.(†…¤Ëøÿÿÿÿ
+wpython:S100ªP"_Rename method "_prepareCopyAndPasteMenu" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¼¤ùÕ
+jpython:S100ßC"RRename method "getTextArea" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(åìı„
+mpython:S100Ñ"PRename method "addWidget" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°öª™úÿÿÿÿ
+opython:S100ö"WRename method "_loadExternalDnd" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ŞÔÀ
+rpython:S3776ˆW"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÕÆ€şÿÿÿÿ
+ppython:S100Ã"XRename method "_changeFullscreen" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(½½Ûÿ
+rpython:S117l"ZRename this local variable "cellCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉÊ±
+opython:S117õ8"RRename this parameter "isFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÅÇÄ‡ıÿÿÿÿ
+mpython:S100¸="PRename method "addButton" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ãÀÊÀúÿÿÿÿ
+qpython:S100Ò'"YRename method "setToggleFrameText" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Û„˜°
+lpython:S100«3"TRename method "_buildSpinBox" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¼Õ¨Ù
+vpython:S100ú&"YRename method "panedFrameVertical" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸‹É™üÿÿÿÿ
+qpython:S117‘3"YRename this local variable "endValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦¹¬
+opython:S117ûq"RRename this parameter "Master" to match the regular expression ^[_a-z][a-z0-9_]*$.(†Ìíûÿÿÿÿ
+upython:S1174"XRename this parameter "callFunction" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥ù¤Äşÿÿÿÿ
+ppython:S100™L"SRename method "addDualMeter" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(„ï§ˆşÿÿÿÿ
+vpython:S100¬S"YRename method "setStatusbarHeader" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(©™¤ûÿÿÿÿ
+wpython:S117ù$"ZRename this local variable "dataQuery" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾˜®¿üÿÿÿÿ
+rpython:S117 1"URename this local variable "gMap" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôæ‰ûÿÿÿÿ
+rpython:S117Ø7"URename this parameter "imageData" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰ü…åÿÿÿÿÿ
+spython:S100¦1"VRename method "searchGoogleMap" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¶Ğ¸ıøÿÿÿÿ
+opython:S100ß'"RRename method "pagedWindow" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(çıÒêıÿÿÿÿ
+kpython:S100¡9"SRename method "soundWarning" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÁÉˆ”

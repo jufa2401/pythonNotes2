@@ -2,12 +2,12 @@ import lyricsgenius as genius
 api = genius.Genius('J7SX419b2gYDrWYRYmI78IoZ9qUUVPjXPJhubOJ3yXScw7BxGqicsT1mjksrbw8s')
 
 model = api.search_song('Model', 'Gulddreng')
+print(model.lyrics)
 # gilli = api.search_song('Su Casa', 'Gilli')
 molo = api.search_song('Skejsen', 'MOLO')
-
-print(model.lyrics)
-# print(gilli.lyrics)
 print(molo.lyrics)
+
+# print(gilli.lyrics)
 
 
 

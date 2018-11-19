@@ -33,7 +33,7 @@ def greetCountdown(upper: int, lower: int, cheer):
     greeting(cheer)
 
 
-def midterm():
+def midterm(x):
     import random
     data = []
     for ct in range(random.randint(0, 25)):
