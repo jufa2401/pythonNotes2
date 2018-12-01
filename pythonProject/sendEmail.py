@@ -15,6 +15,7 @@ def sendEmail(subject: str, message: str, to: [str]):
     Subject: %s
     
     %s
+    
     """ % (sent_from, ", ".join(to), subject, body)
 
     try:

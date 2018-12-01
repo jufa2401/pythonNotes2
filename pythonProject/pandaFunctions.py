@@ -1,4 +1,4 @@
-import pandas
+import pandas, csv
 
 
 def sortUsersDesc():
@@ -24,6 +24,13 @@ def add_database_row(filename: str, name: str, date_of_birth: str, salary: int, 
     file.to_csv(filename, mode='a', index=False, header=False)
 
 
+# csv in class
+def writeInClassExercise3(infoList: list, filename: str = "default.csv"):
+    f = open(filename, mode='a', newline='')
+    csv.writer(f).writerow(infoList)
+    f.close()
+
+
 def change_database_field(filename: str, column_name: str, left_row: str, right_row: str, newfield):
     file = pandas.read_csv(filename)
     file.loc[file[column_name] == left_row, right_row] = newfield
@@ -40,3 +47,8 @@ def changeEmployeeBonus(name: str, new_bonus: int):
 
 def changeEmployeeDOB(name: str, new_DOB: int):
     change_database_field("employees.csv", "name", name, "date_of_birth", new_DOB)
+
+
+changeEmployeeSalary('Citlaly', 303030)
+changeEmployeeBonus('Justin', 0)
+changeEmployeeDOB('Pham','24/10-1960')

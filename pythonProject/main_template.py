@@ -13,6 +13,8 @@ from pythonProject import sendEmail
 
 # The press(btn) function determines code to be executed when a button is pressed
 class main_template:
+    # if __name__ == "__main__":
+        # sendEmail.sendEmail()
     def __init__(self):
         app = gui("Main Menu", "800x800")
         self.app = app
@@ -28,14 +30,15 @@ class main_template:
                                            "Enter name, DOB, salary and bonus to write separated by commas")
             listed = entrylist.split(',')  # creates a list from user entry
 
-        elif btn == "Increase salary of employee":
-            self.app.startSubWindow("Salary increase")
+        elif btn == "Change salary of employee":
+            self.app.startSubWindow("Change salary")
             self.app.setSize(400, 400)
             self.app.setLocation("CENTER")
             self.app.addLabelEntry("Employee name")
             self.app.addLabelEntry("Salary:")
             self.app.addButtons(["Submit", "Close"], self.enterSalary)
-            self.app.showSubWindow("Salary increase")
+            self.app.showSubWindow("Change salary")
+            pandaFunctions.changeEmployeeSalary()
         elif btn == "Change bonus of employee":
             filename = self.app.stringBox("Bonus", "Enter a bonus amount")
             # reader = csv.reader(starter)
@@ -45,6 +48,7 @@ class main_template:
             self.app.setSize(400, 400)
             self.app.setLocation("CENTER")
             self.app.addButton("Close", self.close)
+            pandaFunctions.changeEmployeeSalary("dnas",2000)
         elif btn == "Update salary of all employees by percentage":
             salary = self.app.stringBox("Percentage", "Enter percentage to update salaries")
             starter = open(salary, 'r', newline='')
@@ -166,8 +170,8 @@ class main_template:
 
     def prepare(self):
         self.app.addButton("Add Employee", self.press)
-        self.app.addButton("Increase salary of employee", self.press)
-        self.app.addButton("Increase bonus of employee", self.press)
+        self.app.addButton("Change salary of employee", self.press)
+        self.app.addButton("Change bonus of employee", self.press)
         self.app.addButton("Update salary of all employees by percantage", self.press)
         self.app.addButton("Update bonuses of all employees by percentage", self.press)
         # these are the buttons that call the press function

@@ -1,5 +1,6 @@
 import csv
 
+
 def csvRead():
     with open('employee_birthday.txt') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
@@ -22,7 +23,8 @@ def csvReadDictionary():
             if line_count == 0:
                 print(f'Column names are {", ".join(row)}')
                 line_count += 1
-            print(f'\t{row["name"]} works in the {row["department"]} department, and was born in {row["birthday month"]}.')
+            print(f'\t{row["name"]} works in the {row["department"]} department, and was born in {row[
+                "birthday month"]}.')
             line_count += 1
         print(f'Processed {line_count} lines.')
 
@@ -37,29 +39,30 @@ def writeField():
         employee_writer.writerow(['John Smith', 'Accounting', 'November'])
         employee_writer.writerow(['Erica Meyers', 'IT', 'March'])
 
+
 # csv in class
 def writeInClassExercise():
-    f = open("somecsv.csv",mode='a',newline='')
-    csv.writer(f).writerow(["Storfedlort","Jens"])
+    f = open("somecsv.csv", mode='a', newline='')
+    csv.writer(f).writerow(["Storfedlort", "Jens"])
     f.close()
 
 
-
 # csv in class
-def writeInClassExercise3(infoList: list, filename:str = "default.csv" ):
-    f = open(filename, mode='a',newline='')
+def writeInClassExercise3(infoList: list, filename: str = "default.csv"):
+    f = open(filename, mode='a', newline='')
     csv.writer(f).writerow(infoList)
     f.close()
 
- 
-def readInClassExercise2(filename:str):
+
+def readInClassExercise2(filename: str):
     try:
-        starter = open(filename,mode='r',newline='')
+        starter = open(filename, mode='r', newline='')
         reader = csv.reader(starter)
         for row in reader:
             print(row)
         starter.close()
-    except:  print("Invalid filename")
+    except:
+        print("Invalid filename")
 
     import random
     import math
@@ -73,37 +76,44 @@ def readInClassExercise2(filename:str):
     print('results:', m, s, r, c, s)
 
 
-
 def evenTo100():
-    for num in range(0,101,2):
+    for num in range(0, 101, 2):
         print(num)
+
 
 def oddNumbersTo99():
-    for num in range(1,100,2):
+    for num in range(1, 100, 2):
         print(num)
+
 
 def allnumTo50():
     for num in range(51):
         print(num)
 
+
 def allEvenNumDown():
-    for num in range (100,-1,-1):
+    for num in range(100, -1, -1):
         print(num)
 
+
 def midterm():
-        import statistics, random
-        data = []
-        for cnt in range(10):
-                data.insert(cnt,random.randint(0,100))
-        
-        print("Generated the following list randomly:")
-        print(data)
-        return statistics.median(data)
+    import statistics, random
+    data = []
+    for cnt in range(10):
+        data.insert(cnt, random.randint(0, 100))
+
+    print("Generated the following list randomly:")
+    print(data)
+    return statistics.median(data)
+
+
 # print(midterm())
 
 def pendulumThings():
-        import pendulum
-        print(pendulum.now)
+    import pendulum
+    print(pendulum.now)
+
+
 pendulumThings()
 
 # writeInClassExercise3("bigboi.csv",["jens","ole","bob","ole","bob","ole","bob","ole","bob","ole","bob","ole","bob"])
