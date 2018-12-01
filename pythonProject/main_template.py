@@ -13,8 +13,7 @@ from pythonProject import sendEmail
 
 # The press(btn) function determines code to be executed when a button is pressed
 class main_template:
-    # if __name__ == "__main__":
-        # sendEmail.sendEmail()
+
     def __init__(self):
         app = gui("Main Menu", "800x800")
         self.app = app
@@ -23,32 +22,28 @@ class main_template:
         if btn == "Exit":
             self.app.stop()
         elif btn == "Add Employee":  # writes to a csv file
-            # self.app.stringBox is used to obtain user input (more options at:
-            # http://appjar.info/pythonDialogs/)
-            filename = self.app.stringBox("Filename to edit", "Enter a filename to edit")
             entrylist = self.app.stringBox("Data for entry",
-                                           "Enter name, DOB, salary and bonus to write separated by commas")
+                                           "Enter name, DOB, salary, bonus and email to write separated by commas")
             listed = entrylist.split(',')  # creates a list from user entry
+            pandaFunctions.addEmployee(listed)
 
         elif btn == "Change salary of employee":
             self.app.startSubWindow("Change salary")
             self.app.setSize(400, 400)
             self.app.setLocation("CENTER")
-            self.app.addLabelEntry("Employee name")
+            self.app.addLabelEntry("Employee name:")
             self.app.addLabelEntry("Salary:")
-            self.app.addButtons(["Submit", "Close"], self.enterSalary)
+            self.app.addButtons(["Submit", "Close"], self.enter_salary)
             self.app.showSubWindow("Change salary")
-            pandaFunctions.changeEmployeeSalary()
         elif btn == "Change bonus of employee":
-            filename = self.app.stringBox("Bonus", "Enter a bonus amount")
-            # reader = csv.reader(starter)
-            # creates a subwindow called "one" to display output
             self.app.startSubWindow("Change bonus")
-            self.app.showSubWindow("Change bonus")
             self.app.setSize(400, 400)
             self.app.setLocation("CENTER")
-            self.app.addButton("Close", self.close)
-            pandaFunctions.changeEmployeeSalary("dnas",2000)
+            self.app.addLabelEntry("Employee name:")
+            self.app.addLabelEntry("Bonus:")
+            self.app.addButtons(["Submit", "Close"], self.enter_bonus)
+            self.app.showSubWindow("Change bonus")
+
         elif btn == "Update salary of all employees by percentage":
             salary = self.app.stringBox("Percentage", "Enter percentage to update salaries")
             starter = open(salary, 'r', newline='')
@@ -130,26 +125,39 @@ class main_template:
             self.app.addLabel("label" + str(count), first)
             count = count + 1
 
-    def enterSalary(self, btn2):
+    def enter_salary(self, btn2):
         if btn2 == "Close":
-            self.app.removeLabelEntry("Employee name")
+            self.app.removeLabelEntry("Employee name:")
             self.app.removeLabelEntry("Salary:")
             self.app.removeSubWindow
             self.app.stopSubWindow()
-            self.app.destroySubWindow("two")
+            self.app.destroySubWindow("Change salary")
         else:
-            fn = self.app.getEntry("Employee name")
-            dt = self.app.getEntry("Salary:")
-            dtt = dt.split(',')
+            employee = self.app.getEntry("Employee name:")
+            salary = self.app.getEntry("Salary:")
+            pandaFunctions.changeEmployeeSalary(employee, int(salary))
 
-            message = str("Dear", fn, "your salary was just changed to", dt)
+            message = ["Dear", employee, "your salary was just changed to", salary]
             namesfr = pandas.read_csv("employees.csv")
-            email = namesfr[namesfr.name == fn].email
-            sendEmail.sendEmail("You got a salary change!", message, email)
+            email = namesfr[namesfr.name == employee].email
+            sendEmail.sendEmail("You got a salary change!", str(message), email)
 
-            # f = open(fn, 'a', newline='')
-            # csv.writer(f).writerow(dtt)
-            # f.close()
+    def enter_bonus(self, btn2):
+        if btn2 == "Close":
+            self.app.removeLabelEntry("Employee name:")
+            self.app.removeLabelEntry("Bonus:")
+            self.app.removeSubWindow
+            self.app.stopSubWindow()
+            self.app.destroySubWindow("Change bonus")
+        else:
+            employee = self.app.getEntry("Employee name:")
+            bonus = self.app.getEntry("Bonus:")
+            pandaFunctions.changeEmployeeBonus(employee, int(bonus))
+
+            message = ["Dear", employee, "your bonus was just changed to", bonus]
+            namesfr = pandas.read_csv("employees.csv")
+            email = namesfr[namesfr.name == employee].email
+            sendEmail.sendEmail("You got a bonus change!", str(message), email)
 
     def close(self):
         self.app.stopSubWindow()

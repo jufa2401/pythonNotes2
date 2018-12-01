@@ -1,7 +1,7 @@
 import smtplib
 
 
-def sendEmail(subject: str, message: str, to: [str]):
+def sendEmail(subject: str, message: str, to: str):
     gmail_user = 'moneyndat@gmail.com'
     gmail_password = 'storfedpik'
 
@@ -15,7 +15,6 @@ def sendEmail(subject: str, message: str, to: [str]):
     Subject: %s
     
     %s
-    
     """ % (sent_from, ", ".join(to), subject, body)
 
     try:
@@ -27,8 +26,9 @@ def sendEmail(subject: str, message: str, to: [str]):
         server.close()
 
         print('Email sent!')
-    except:
+    except smtplib.SMTPException:
         print('Something went wrong...')
 
 
-sendEmail('lort', 'hello you are fired', ['jufa2402@gmail.com'])
+if __name__ == "__main__":
+    sendEmail("lort", "hello you are fired", 'jufa2402@gmail.com')
