@@ -1,9 +1,10 @@
 from appJar import gui
 from pythonProject import main_template
+import pandas
+
 
 # from mainmenu import MainMenu
 class Login:
-
     # Build the GUI
     def prepare(self, app):
         # Form GUI

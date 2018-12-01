@@ -42,3 +42,25 @@ L
 pythonProject/employees.json,a\5\a50c408161317788d83409e5c07543787feecb60
 =
 classNotes.py,c\d\cd0ef009620416d87c27a77f5c9541cbefd7cbf7
+N
+pythonProject/main_template.py,8\e\8e09956607b260b3cb2fa9e47c1f4ccf27457620
+G
+pythonProject/users.csv,6\b\6b60fb5f95c0b7160c7d4f0aa0c14fd30882fe83
+K
+pythonProject/employees.csv,8\7\87584dc5725e9644d902af0b231217126a8fc968
+Q
+!pythonProject/csvHandlerPandas.py,2\b\2ba4b9943d50759204515bf1c6cf432489f50e4b
+J
+pythonProject/pandaTest.py,9\3\93068f574ee8c251bad53f681f3862c44d8a01ad
+I
+pythonProject/skeleton.py,6\f\6f6254af0460fc849f40ce0a7d3847197076c40e
+H
+pythonProject/panswer.py,9\4\94e440d2cc28032cae3f80d12738b2d8c10e7750
+H
+pythonProject/changes.py,b\c\bcb74014a53c768a0bd5731c3f2f535bbb94242e
+Q
+!pythonProject/employeessorted.csv,8\8\886ce9aa6e27f65ce63f90b8590cf9916881bd7e
+O
+pythonProject/pandaFunctions.py,0\a\0a978377b4bacf054485337718303f3b9241581c
+J
+pythonProject/sendEmail.py,8\b\8b70864022533e5abfa768980d90e06d2acc1a9c
