@@ -2,7 +2,7 @@ import smtplib
 
 
 def sendEmail(subject: str, message: str, to: str):
-    gmail_user = 'moneyndat2@gmail.com'
+    gmail_user = 'moneyndat@gmail.com'
     gmail_password = 'storfedpik'
 
     sent_from = gmail_user

@@ -39,7 +39,7 @@ class main_template:
             self.app.startSubWindow("Change bonus")
             self.app.setSize(400, 400)
             self.app.setLocation("CENTER")
-            self.app.addLabelEntry("Employee name:")
+            self.app.addLabelEntry("Name:")
             self.app.addNumericLabelEntry("Bonus:")
             self.app.addButtons(["Submit", "Close"], self.enter_bonus)
             self.app.showSubWindow("Change bonus")
@@ -148,13 +148,13 @@ class main_template:
 
     def enter_bonus(self, btn2):
         if btn2 == "Close":
-            self.app.removeLabelEntry("Employee name:")
+            self.app.removeLabelEntry("Name:")
             self.app.removeLabelEntry("Bonus:")
             self.app.removeSubWindow
             self.app.stopSubWindow()
             self.app.destroySubWindow("Change bonus")
         else:
-            employee = self.app.getEntry("Employee name:")
+            employee = self.app.getEntry("Name:")
             bonus = self.app.getEntry("Bonus:")
             pandaFunctions.changeEmployeeBonus(employee, int(bonus))
 

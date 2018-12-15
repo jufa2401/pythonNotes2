@@ -10,7 +10,7 @@ class Login:
         app.setTitle("Login Form")
         app.setFont(size=12, family="Verdana")
         # Add labels & entries
-        # in the correct row & column
+        # in the correct r  ow & column
         app.addLabel("userLab", "Username:", 0, 0)
         app.addEntry("username", 0, 1)
         app.setFocus("username")
